@@ -1,0 +1,885 @@
+id,song_name,artist_name,popularity,release_date,genres,danceability,energy,valence,tempo,loudness,duration_ms,key,mode
+2Fxmhks0bxGSBdJ92vM42m,bad guy,Billie Eilish,81,2019-03-29,"art pop, pop",0.701,0.425,0.562,135.128,-10.965,194088,7,1
+46lvmzK8wxAy66tjzXXSh0,Tal Vez,Paulo Londra,60,2019-04-03,"argentine hip hop, trap argentino, trap latino, urbano latino",0.849,0.655,0.76,161.966,-2.899,264483,8,1
+1c0hsvHLELX6y8qymnpLKL,Soltera (Remix),Lunay,66,2019-05-10,"reggaeton, reggaeton flow, trap latino, urbano latino",0.795,0.783,0.799,92.01,-4.271,266087,5,1
+2huX4MIVEWQtzCpu6B05SV,No Te Preocupes por Mi,Leiva,0,2018-12-14,"cantautor, latin arena pop, spanish indie pop, spanish pop, spanish rock",0.313,0.608,0.341,151.872,-5.746,228326,7,1
+1mlGScrDQqHqmhdIqE8MmA,Besos En Guerra,Morat,76,2018-10-25,"colombian pop, latin viral pop",0.691,0.973,0.783,143.961,-3.586,231533,2,1
+04u9U3bDD9dVZFDDI8v0ME,Paraíso,Dvicio,51,2014-09-08,"latin arena pop, latin pop, spanish pop",0.643,0.891,0.933,87.989,-3.343,180653,10,1
+5ZCamgcqvkckdf2FdfYuth,La Llamada,Leiva,50,2017-09-27,"cantautor, latin arena pop, spanish indie pop, spanish pop, spanish rock",0.623,0.488,0.169,114.019,-8.246,240205,2,1
+4szQkW1CDHqbRZGltXJdd3,Soldi,Mahmood,59,2019-02-22,"italian adult pop, italian pop",0.729,0.589,0.349,95.065,-9.871,195133,3,0
+42VgiRyg0YjtRVLiPFNxPJ,Zapatillas,El Canto Del Loco,62,2005,"latin arena pop, spanish pop, spanish pop rock",0.428,0.956,0.686,198.076,-2.382,172640,8,0
+2Z5wXgysowvzl0nKGNGU0t,Out of My League,Fitz and The Tantrums,73,2013-05-07,"la indie, modern alternative rock, modern rock, pop rock, pov: indie",0.545,0.968,0.527,169.965,-3.553,209386,9,0
+1tDUwlIyFFcmfMypYoQ4Ns,Ellos,Ceky Viciny,0,2019-03-11,"dembow, rap dominicano",0.754,0.939,0.853,122.006,-1.953,175082,5,0
+63c2jMnVyf8dtnbaQK910d,Serpiente Veneno (feat. Ele A El Dominio),Kidd Keo,58,2019-04-26,"drill espanol, trap latino, trap triste, urbano espanol, urbano latino",0.918,0.527,0.553,99.973,-6.733,268437,1,1
+0XPayKZFFZA2PwSRNi1pVU,Terriblemente Cruel,Leiva,57,2014-01-31,"cantautor, latin arena pop, spanish indie pop, spanish pop, spanish rock",0.549,0.831,0.615,125.594,-4.17,227600,0,1
+59LWNzlcxkc2kymlDIYpNa,Me Gustas,Tutto Durán,41,2018-10-18,spanish pop,0.657,0.814,0.691,165.953,-4.382,206623,2,1
+7yq4Qj7cqayVTp3FF9CWbm,Riptide,Vance Joy,78,2014-09-08,"folk-pop, modern rock",0.484,0.731,0.51,101.654,-6.694,204280,1,1
+6h5PAsRni4IRlxWr6uDPTP,More Than You Know,Axwell /\ Ingrosso,77,2017-07-28,"edm, pop dance, progressive electro house",0.646,0.741,0.571,123.077,-4.973,203000,5,0
+4b2tcjrG1qUkSdsqEFP2dB,Sun Is Shining,Axwell /\ Ingrosso,64,2017-07-28,"edm, pop dance, progressive electro house",0.467,0.757,0.383,131.993,-3.01,254653,2,1
+1U6JWvRennx9ej9KJOYwDm,Una Lluna a l'Aigua,Txarango,0,2017-03-27,"indie catala, mestissatge, rock catala",0.711,0.833,0.83,100.07,-8.268,217299,0,1
+4unOsvr9C2NqI9aJXrxpCy,Sirenas,Taburete,0,2016-11-18,"spanish pop, spanish rock",0.686,0.574,0.251,126.98,-6.249,184250,5,1
+3UDYjKgEVWe4ONbxnAIxHi,No Te Echo De Menos,Juan Antonio,11,2018-09-06,latin talent show,0.624,0.681,0.808,91.898,-7.137,191902,0,1
+0pqnGHJpmpxLKifKRmU6WP,Believer,Imagine Dragons,85,2017-06-23,"modern rock, pop, rock",0.776,0.78,0.666,124.949,-4.374,204347,10,0
+48RrDBpOSSl1aLVCalGl5C,The Monster,Eminem,78,2013-11-05,"detroit hip hop, hip hop, rap",0.781,0.853,0.626,110.046,-3.68,250189,1,0
+79RUMZfMNMpqZnswovvTqv,Wonderwall,Oasis,1,1995-10-02,"beatlesque, britpop, madchester, permanent wave, rock",0.412,0.844,0.459,174.452,-5.613,258907,2,1
+6Rpv6D9ENjfrVHGi7jKQMN,Amor de Anticuario,Sofia Ellar,0,2017-02-24,"spanish pop, spanish rock",0.669,0.348,0.33,97.894,-9.634,236278,1,1
+3o8B4L8vJPRYKWpICkjwjb,El Despertar,Nil Moliner,25,2019-02-01,spanish pop,0.752,0.87,0.895,99.995,-4.492,206874,0,1
+0HXsTIRF6ijaSlUwWyfbOx,Soldadito de Hierro,Nil Moliner,8,2019-03-22,spanish pop,0.716,0.344,0.412,81.86,-7.528,142965,9,1
+3XvMGisPMosHlT5oOg2E7N,Hijos de la Tierra,Nil Moliner,38,2017-12-01,spanish pop,0.871,0.71,0.973,141.005,-6.698,210274,7,1
+56LsEoYMQmzPm9JMICPfxe,Te amo,María Artés,36,2015-03-03,pop flamenco,0.562,0.584,0.275,157.981,-4.521,249947,5,1
+3HGpam99mqC5g3z5fpeqIz,La Isla del Amor - Remix,Demarco Flamenco,38,2017-09-22,"flamenco urbano, pop flamenco",0.616,0.828,0.478,94.872,-4.195,220579,0,1
+3E6Ydoy1H8ePoigc10Mgsa,Snowman,Sia,0,2017-11-17,pop,0.716,0.512,0.326,104.957,-6.257,165907,1,1
+3cfOd4CMv2snFaKAnMdnvK,All Star,Smash Mouth,78,1999-06-08,"pop rock, post-grunge",0.731,0.867,0.776,104.02,-5.881,200373,11,1
+0pQskrTITgmCMyr85tb9qq,Starman - 2012 Remaster,David Bowie,76,1972-06-06,"art rock, classic rock, glam rock, permanent wave, rock",0.486,0.449,0.549,100.456,-10.298,254293,5,1
+2jiPHbFX5XM8TjaTfYJ0eo,Stolen Dance,Milky Chance,3,2013-05-31,"german pop, modern rock",0.885,0.581,0.728,114.016,-8.813,313684,11,1
+6MF2uU7HoQkA1Da2jscqV2,Mi Morena,Juanfran,38,2019-04-26,"pop reggaeton, urbano espanol",0.808,0.57,0.665,95.009,-6.542,187178,8,0
+48QmG1dfvMuYLxMPt7KSRA,No Lie,Sean Paul,80,2018-06-29,"dance pop, dancehall, pop, pop rap",0.742,0.882,0.463,102.04,-2.862,221176,7,1
+62YL4H1dOpC6702x4i7VQS,Carita de buena,Efecto Pasillo,26,2017-05-26,"latin arena pop, musica canaria, rock en espanol, spanish pop",0.644,0.945,0.832,101.994,-5.158,217741,7,1
+01y94GnU6CMe2JfRWoWOJv,Ella Es,Mandrake El Malocorita,0,2019-02-13,rap dominicano,0.66,0.634,0.19,165.78,-4.606,228489,4,0
+2TH65lNHgvLxCKXM3apjxI,Callaita,Bad Bunny,72,2019-05-31,"reggaeton, trap latino, urbano latino",0.61,0.624,0.244,176.169,-4.773,250534,2,1
+4WDGthi6OTGai45K41Al70,Déjame Ser,Manuel Carrasco,31,2018-11-15,"carnaval cadiz, pop flamenco, spanish pop",0.625,0.854,0.737,171.957,-5.939,232473,1,1
+0tEHuz6x5TDyB3rK6swBsZ,Nada Sale Mal,Aitana,29,2019-05-16,"latin talent show, latin viral pop, spanish pop",0.829,0.635,0.402,148.096,-5.429,189030,2,0
+4S6gJt4RYR34t4sjW8wEah,Lo siento,Beret,56,2018-08-21,"spanish hip hop, spanish pop",0.419,0.407,0.309,79.839,-9.011,229939,11,0
+3gPOFPYLgpvQz0ZMwmv7NE,Te echo de menos,Beret,48,2018-10-19,"spanish hip hop, spanish pop",0.658,0.714,0.362,159.9,-5.086,194986,0,1
+0Jl7YPC0sPpqL1d31IixiG,Bye Bye,Beret,44,2016-08-24,"spanish hip hop, spanish pop",0.779,0.566,0.939,92.222,-8.198,189227,7,0
+7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Lewis Capaldi,86,2019-05-17,"pop, uk pop",0.501,0.405,0.446,109.891,-5.679,182161,1,1
+1f38Gx6xQz6r4H1jGVNBJo,Loco Contigo (with J. Balvin & Tyga),DJ Snake,0,2019-06-13,"dance pop, edm, electronic trap, pop, pop dance",0.822,0.743,0.355,96.025,-3.04,185195,6,0
+7fODjB7BrQTGqh0hogW6XD,Que Mas Pues - Remix,Sech,67,2019-04-19,"panamanian pop, reggaeton, trap latino, urbano latino",0.647,0.661,0.811,113.358,-5.027,305962,11,1
+25ZAibhr3bdlMCLmubZDVt,QUE PRETENDES,J Balvin,75,2019-06-28,"reggaeton, reggaeton colombiano, trap latino, urbano latino",0.639,0.791,0.933,92.603,-4.443,222347,10,0
+07rmSXN6vNoquX1AsWd9pP,Lalala,Y2K,0,2019-06-07,"pop rap, viral rap",0.843,0.391,0.496,129.972,-7.899,160615,2,1
+7lOzUJzsELALh5FQsPKTEn,Humanos a Marte,Chayanne,67,2014-08-25,"latin pop, puerto rican pop",0.69,0.902,0.786,92.988,-4.269,225987,6,0
+1zVhMuH7agsRe6XkljIY4U,human,Christina Perri,51,2013-11-18,pop,0.439,0.489,0.253,143.808,-6.286,250707,8,1
+6E8uqptcabNz9ym19FkDye,Boomerang,Sech,59,2019-04-19,"panamanian pop, reggaeton, trap latino, urbano latino",0.714,0.658,0.61,163.86,-4.628,203392,5,0
+1qDrWA6lyx8cLECdZE7TV7,Somebody That I Used To Know,Gotye,79,2011-01-01,australian pop,0.865,0.521,0.748,129.059,-6.932,244885,0,1
+618v3huzqDQQBfMogznSb3,Fast Car - Acoustic,Jonas Blue,56,2016-02-01,"pop, pop dance, tropical house, uk dance",0.475,0.237,0.595,103.045,-9.923,217864,9,1
+6kPJZM97LwdG9QIsT7khp6,Solo (feat. Demi Lovato),Clean Bandit,66,2018-05-17,"pop, uk dance, uk funky",0.737,0.636,0.565,105.005,-4.546,222653,11,0
+514rhnksEwHUh6LxXsQ4Y9,Back To You,Selena Gomez,64,2018-05-18,"pop, post-teen pop",0.6,0.683,0.489,102.036,-6.271,210240,6,1
+0E9ZjEAyAwOXZ7wJC0PD33,In My Mind,Dynoro,80,2018-06-08,edm,0.694,0.77,0.163,125.905,-5.335,184560,6,1
+0qSnsCozy8uz5XotSJMHUz,Superstars,Kidd Keo,65,2017-12-25,"drill espanol, trap latino, trap triste, urbano espanol, urbano latino",0.815,0.343,0.586,139.784,-13.575,212571,5,1
+3RiPr603aXAoi4GHyXx0uy,Hymn for the Weekend,Coldplay,82,2015-12-04,"permanent wave, pop",0.491,0.693,0.412,90.027,-6.487,258267,0,0
+0nHQAxZgzAcKGRxAsOISTc,Blue (Da Ba Dee),I'm Blue,46,2012-07-10,,0.807,0.815,0.833,128.029,-5.684,221980,7,0
+22sLuJYcvZOSoLLRYev1s5,Material Girl,Madonna,70,2009-09-18,"dance pop, pop",0.742,0.883,0.978,136.506,-3.419,240280,0,1
+14BH4qO7pgCmIe6mgLKOK3,Someone To You,BANNERS,66,2017-11-03,indie poptimism,0.468,0.936,0.663,75.05,-3.683,219800,2,1
+4Ub8UsjWuewQrPhuepfVpd,Pompeii,Bastille,71,2013-01-01,"metropopolis, modern rock, pop",0.679,0.715,0.571,127.435,-6.383,214148,9,1
+7KKTnv81z6DmfPIGsZWjOW,La Rubia - Remix 2,La Nueva Escuela,56,2019-04-19,dembow,0.759,0.717,0.761,109.888,-4.194,210860,7,1
+62KauVMflnovkPliVwvIPp,Pantera,Omar Montes,33,2018-08-10,"flamenco urbano, urbano espanol",0.696,0.81,0.826,192.058,-3.756,196467,8,0
+1WyNPKPrqJkD6qyVqQXty8,Fuego,Omar Montes,35,2018-04-20,"flamenco urbano, urbano espanol",0.661,0.756,0.645,180.033,-3.517,244000,11,0
+2cMTIlktg3M9mXYqCPqw1J,Milkshake,Kelis,13,2003-12-05,"dance pop, hip pop, neo soul, urban contemporary",0.881,0.774,0.759,112.968,-6.068,182627,1,1
+4N5Z6UnOzfED2kArFpc8CD,Nota Loca - Remix,Eklectico,46,2019-06-07,"dembow dominicano, trap dominicano",0.832,0.698,0.858,95.993,-8.269,273132,8,1
+62yJjFtgkhUrXktIoSjgP2,Radioactive,Imagine Dragons,79,2012-09-04,"modern rock, pop, rock",0.448,0.784,0.237,136.239,-3.686,186813,9,1
+18AJRdgUoO9EYn11N7xzaT,Habits (Stay High),Tove Lo,72,2014-09-24,"dance pop, metropopolis, pop, swedish electropop, swedish pop, swedish synthpop",0.733,0.65,0.348,110.003,-3.539,209160,5,1
+1F43XlPBiwAUUIhrUGzylO,Never Ending Story,Limahl,62,2009-09-25,"new romantic, new wave pop, synthpop",0.599,0.622,0.851,122.312,-13.971,212173,0,1
+3gXLvKCCb4EwiJBVhwjIu2,Déjame,Los Secretos,34,2007,"cantautor, latin arena pop, spanish new wave, spanish pop, spanish pop rock",0.58,0.88,0.888,101.023,-4.02,160147,7,1
+7q3NthaBqFI6s0WnAlnIvq,Velitas,Darell,70,2019-07-12,"latin hip hop, reggaeton, trap latino, urbano latino",0.819,0.596,0.622,165.951,-7.009,225542,2,1
+2K3bjojp1sCLdMMoO5lJ2p,Milionària,ROSALÍA,53,2019-07-03,"pop, r&b en espanol",0.857,0.574,0.906,116.008,-6.441,138371,8,1
+5yFSF6qQA1rcLsQRnBsZgb,All Falls Down (feat. Juliander),Alan Walker,60,2017-10-27,electro house,0.658,0.678,0.662,97.976,-4.407,199111,1,1
+5dyDkXi1bnQKSyIdO0JXp8,Hundred Miles,YALL,0,2015-10-16,,0.479,0.714,0.49,98.23,-3.776,172413,7,0
+3850dYVgOFIXJh5U4BFEWH,Hung Up,Madonna,74,2005-11-11,"dance pop, pop",0.649,0.647,0.405,125.02,-7.695,337733,9,0
+2X9fsxb6O6bYEopJYmUbNC,Gold,Spandau Ballet,59,2000-05-15,"new romantic, new wave, new wave pop, sophisti-pop, synthpop",0.711,0.74,0.639,143.053,-7.776,231480,10,0
+6dGnYIeXmHdcikdzNNDMm2,Here Comes The Sun - Remastered 2009,The Beatles,82,1969-09-26,"british invasion, classic rock, merseybeat, psychedelic rock, rock",0.557,0.54,0.394,129.177,-10.484,185733,9,1
+3BQHpFgAp4l80e1XslIjNI,Yesterday - Remastered 2009,The Beatles,76,1965-08-06,"british invasion, classic rock, merseybeat, psychedelic rock, rock",0.332,0.179,0.315,96.524,-11.83,125667,5,1
+2EqlS6tkEnglzr7tkKAAYD,Come Together - Remastered 2009,The Beatles,75,1969-09-26,"british invasion, classic rock, merseybeat, psychedelic rock, rock",0.53,0.376,0.188,164.775,-11.913,259947,9,0
+4pbG9SUmWIvsROVLF0zF9s,I Want To Hold Your Hand - Remastered 2015,The Beatles,62,2000-11-13,"british invasion, classic rock, merseybeat, psychedelic rock, rock",0.49,0.715,0.866,130.726,-5.549,145747,7,1
+6yCjU5j6YHbux2VQCBTTE1,Tu jardín con enanitos,Melendi,71,2012-11-13,"spanish pop, spanish pop rock",0.721,0.834,0.53,127.92,-4.457,236976,7,1
+7dITAq1YP5e0kTcaDq4YWI,Limón y Sal,Julieta Venegas,74,2006-05-25,"cantautora mexicana, latin alternative, latin pop, latin rock, rock en espanol",0.634,0.649,0.491,111.03,-6.056,205413,11,1
+0815caqt2Lytro5EIzMufT,You And Me,Lifehouse,73,2005-03-22,"neo mellow, pop rock, post-grunge",0.459,0.427,0.354,139.902,-7.734,195493,7,1
+1JSTJqkT5qHq8MDJnJbRE1,Every Breath You Take,The Police,86,1983-06-17,"album rock, classic rock, permanent wave, rock",0.82,0.452,0.74,117.401,-9.796,253920,1,1
+5hnyJvgoWiQUYZttV4wXy6,Chasing Cars,Snow Patrol,80,2006-01-01,"irish rock, modern rock, neo mellow, permanent wave, pop rock",0.561,0.595,0.144,104.006,-4.53,267960,9,1
+4wyNKAZe82BNlp2lHiR1FX,CANGURO,WOS,55,2019-08-09,"argentine indie, trap argentino",0.602,0.751,0.934,163.874,-4.358,196745,1,1
+3CHAG77jAcwK0w8NBE7i7p,Yyanosé,Israel B,0,2019-07-12,"boom bap espanol, drill espanol, spanish hip hop, urbano espanol",0.612,0.636,0.388,176.168,-6.473,191080,2,0
+5JboK5zbbhXIN7iN9NHS8t,Change Ya Life,Haiti Babii,57,2018-12-05,"cali rap, westcoast flow",0.696,0.399,0.364,98.004,-8.673,156770,4,0
+4y1LsJpmMti1PfRQV9AWWe,Girls Just Want to Have Fun,Cyndi Lauper,80,1983-10-14,"dance pop, new wave pop, permanent wave, soft rock",0.71,0.799,0.725,120.372,-4.897,238267,6,1
+3u5GmyJP2MU3tEJgyiAG2T,Indios y Vaqueros,Sinsinati,53,2018-08-01,spanish pop,0.606,0.797,0.851,100.015,-6.23,184001,8,1
+5BhSZWrUa5xkZ2K7Ze5fVT,Me vas a ver,Beret,44,2019-09-19,"spanish hip hop, spanish pop",0.536,0.287,0.701,78.243,-8.553,135739,3,1
+7754vHc34U2wQMIJFWRhVK,A Escondidas,$kyhook,0,2019-06-07,urbano espanol,0.786,0.427,0.608,98.024,-10.696,217959,3,1
+7cmRd1iwDaANckyPHSOv5V,"Autoestima (Feat. Lola Indigo, Alizzz) - Remix",Cupido,42,2019-08-08,urbano espanol,0.786,0.773,0.742,82.081,-5.209,207805,1,1
+2rjCYP9ibN6tYXNWF6AqSk,Late,Pol Granch,41,2019-02-08,spanish pop,0.766,0.482,0.635,104.166,-7.166,167600,7,1
+7fTsw0IKbbPDN19keS32tF,Easy,JHAYCO,0,2019-05-24,"reggaeton, trap latino, urbano latino",0.853,0.777,0.547,94.031,-4.023,239373,1,0
+6mAN61JH0dzyZpWslS11jy,Fantasias,Rauw Alejandro,71,2019-08-29,"puerto rican pop, reggaeton, trap latino, urbano latino",0.879,0.703,0.788,94.004,-4.219,199711,1,1
+2ksOAxtIxY8yElEWw8RhgK,China,Anuel AA,71,2019-07-19,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",0.786,0.808,0.609,105.027,-3.702,301714,7,1
+1EoEU4HY57qaITp06TkC6B,Goteo,Duki,63,2019-08-07,"argentine hip hop, trap argentino, trap latino, trap triste, urbano latino",0.473,0.779,0.438,108.287,-3.725,164458,1,1
+4R0sTxCaskwCPbzkfXHfWg,Santa María (Feat. Busy Signal),Bad Gyal,51,2019-07-05,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.764,0.603,0.427,142.465,-6.951,154933,0,1
+0fea68AdmYNygeTGI4RC18,LA CANCIÓN,J Balvin,82,2019-06-28,"reggaeton, reggaeton colombiano, trap latino, urbano latino",0.756,0.646,0.429,176.088,-5.795,242573,7,1
+5NuVQ1a9vJxMeXJNMpXfZ7,Poca Suerte,Funzo & Baby Loud,52,2018-11-14,"rap espanol, trap triste",0.737,0.513,0.271,156.05,-6.978,238462,8,0
+1aUGxXCz9QimNkKeiJtzZ7,105 F Remix,KEVVO,66,2019-09-12,"reggaeton, reggaeton flow, trap latino, urbano latino",0.9,0.754,0.741,100.045,-7.016,464200,5,0
+1JY48zKQs16W0necdEl0M8,"Dillom: Bzrp Music Sessions, Vol. 9",Bizarrap,0,2019-07-11,"argentine hip hop, pop venezolano, trap argentino, trap latino, urbano latino",0.904,0.546,0.232,99.853,-5.133,151844,10,1
+2S93hylQBYLndMnaJuso8S,"Nicki Nicole: Bzrp Music Sessions, Vol. 13",Bizarrap,64,2019-08-14,"argentine hip hop, pop venezolano, trap argentino, trap latino, urbano latino",0.81,0.471,0.391,75.003,-5.047,143292,8,1
+6MbSMSXrSlvsyHf4kcaLQi,No Puedo,Paulo Londra,62,2019-05-23,"argentine hip hop, trap argentino, trap latino, urbano latino",0.792,0.68,0.519,140.041,-5.392,175029,5,0
+3krzcyMKlRXjVkJFZqMN4t,Chica Paranormal,Paulo Londra,69,2019-05-23,"argentine hip hop, trap argentino, trap latino, urbano latino",0.86,0.61,0.699,139.948,-5.93,221084,6,0
+4Ddac1auZ5h2lsQkthGvQP,Sueño de una noche de verano,Delahoja,37,2009-02-01,,0.904,0.692,0.845,91.518,-6.268,272904,0,1
+5NlFXQ0si6U87gXs6hq81B,Candy,Robbie Williams,64,2012-11-05,"dance rock, europop",0.715,0.791,0.879,116.043,-6.63,201053,10,1
+0mUyMawtxj1CJ76kn9gIZK,Bad Day,Daniel Powter,72,2005-02-22,"canadian pop, neo mellow, pop rock",0.599,0.785,0.52,140.046,-4.013,233640,3,1
+71NGDQ9vSPXm55pyWeAxKK,Rueda,Chimbala,0,2019-07-19,"dembow, rap dominicano",0.888,0.916,0.96,130.04,-2.196,210528,9,1
+4sNwdacKyi2S26WrRtNama,Oh No!,MARINA,69,2009-07-15,"metropopolis, pop, pov: indie, uk alternative pop",0.77,0.896,0.964,126.999,-3.971,182587,0,1
+3mZFOjJplVA5PTU5zmymZB,Profesores,Morad,0,2019-10-04,"drill espanol, urbano espanol",0.7,0.638,0.347,108.188,-7.853,226667,8,0
+5LtNBCM2ve0SxP0dlRVvMu,I'm Gonna Show You Crazy,Bebe Rexha,56,2014-12-19,"dance pop, pop",0.474,0.537,0.335,90.103,-6.77,207775,2,1
+6t94PGXYAuo9GbJEnMpPcW,La Forma en Que Me Miras,Super Yei,69,2018-08-04,"reggaeton, reggaeton flow, urbano latino",0.656,0.662,0.573,189.984,-1.387,307435,1,1
+6OdD1XrpFD5BuxiAMFUWZC,Te De Campana,Atomic Otro Way,0,2016-02-27,"dembow, rap dominicano",0.811,0.927,0.706,105.045,-1.711,198625,11,1
+3U1TuSqHIubBA10cVP7Sk6,I Think I'm In Love,Kat Dahlia,66,2015-01-09,"hip pop, miami hip hop",0.632,0.638,0.574,121.868,-6.731,202667,7,1
+70PDzXL2BNt4nOQVtTdSqb,Him and I,Camber Johnson,0,2018-03-22,,0.577,0.572,0.32,88.105,-9.847,268227,7,1
+5DxXgozhkPLgrbKFY91w0c,Vete,Bad Bunny,67,2019-11-21,"reggaeton, trap latino, urbano latino",0.886,0.672,0.526,91.976,-4.394,192024,1,1
+2rc7BkzO8qepMFAxHtOrXc,Blanco,J Balvin,53,2019-11-15,"reggaeton, reggaeton colombiano, trap latino, urbano latino",0.871,0.711,0.622,100.013,-5.397,145800,9,0
+6qqd7DGn2VXzxsR4k3Ycun,Fantasias - Unplugged,Rauw Alejandro,51,2019-11-05,"puerto rican pop, reggaeton, trap latino, urbano latino",0.714,0.528,0.538,91.952,-5.219,200594,0,1
+6kbzFdX9KkJpAADAqArxgW,A Mí,Rels B,0,2019-02-21,"r&b en espanol, spanish hip hop, trap latino, urbano espanol, urbano latino",0.846,0.548,0.516,94.925,-6.397,209680,1,1
+3whrwq4DtvucphBPUogRuJ,Havana - Remix,Camila Cabello,57,2017-11-12,"dance pop, pop",0.751,0.579,0.349,105.031,-4.036,199095,2,1
+7aFBy1CBLGnZE1Iv6TvEZE,Antes de Morirme (feat. Rosalía),C. Tangana,0,2016-07-05,urbano espanol,0.865,0.498,0.131,97.921,-8.882,199994,8,0
+285pBltuF7vW8TeWk8hdRR,Lucid Dreams,Juice WRLD,83,2018-12-10,"chicago rap, melodic rap, rap",0.511,0.566,0.218,83.903,-7.23,239836,6,0
+18A7ha5BitZjmdHTCwXFbU,Cradles,Sub Urban,1,2019-01-04,modern indie pop,0.581,0.585,0.63,67.443,-1.87,209829,1,1
+6fujklziTHa8uoM5OQSfIo,Black Beatles,Rae Sremmurd,73,2016-08-12,"melodic rap, mississippi hip hop, pop rap, rap, trap",0.794,0.632,0.355,145.926,-6.163,291893,0,1
+45TB9eVUb6KjwOwa8UNL1e,Euromillón,Rels B,52,2018-06-19,"r&b en espanol, spanish hip hop, trap latino, urbano espanol, urbano latino",0.816,0.585,0.523,122.073,-8.344,194760,11,0
+1zMbHJg8Gv9Sa8I15y6rKg,Hoy Será,Antonio Orozco,35,2015-12-04,"pop flamenco, spanish pop",0.622,0.865,0.363,136.025,-4.655,199620,9,0
+0WKmVAD4VWk5EdTyCFILi4,Needs,Verzache,63,2018-02-14,sad lo-fi,0.813,0.601,0.855,118.981,-7.552,177479,11,0
+6wdI9sg2VdgjqSg0ozu9PK,Afro Trap Pt. 7 (La puissance),MHD,63,2016-12-23,"french hip hop, pop urbaine, r&b francais",0.97,0.806,0.815,120.003,-5.628,140078,8,0
+6i0V12jOa3mr6uu4WYhUBr,Heathens,Twenty One Pilots,82,2016-06-16,"modern rock, pop, pov: indie, rock",0.732,0.396,0.548,90.024,-9.348,195920,4,0
+3D4gcNgiD0kMPW4AH1ufpA,Wifi,Arce,0,2019-05-17,"spanish hip hop, urbano espanol",0.74,0.729,0.624,119.96,-6.141,214000,11,0
+1jMFkATqoVGbGrqZW8Iuzh,Pedigrí,Arce,0,2019-05-17,"spanish hip hop, urbano espanol",0.747,0.737,0.723,116.069,-4.42,225850,8,1
+6G8TNOdTBpBPmDdJAvoVhA,Enchochado de Ti,Don Patricio,48,2019-01-27,"rap canario, urbano espanol",0.556,0.507,0.531,180.072,-6.565,213373,7,1
+06KyNuuMOX1ROXRhj787tj,We Don't Talk Anymore (feat. Selena Gomez),Charlie Puth,76,2016-01-29,"pop, viral pop",0.728,0.563,0.352,100.017,-8.053,217707,1,0
+0tBbt8CrmxbjRP0pueQkyU,Wolves,Selena Gomez,75,2017-10-25,"pop, post-teen pop",0.725,0.804,0.31,124.996,-4.614,197993,11,0
+6RUKPb4LETWmmr3iAEQktW,Something Just Like This,The Chainsmokers,86,2017-04-07,pop,0.617,0.635,0.446,103.019,-6.769,247160,11,0
+2tpWsVSb9UEmDRxAl1zhX1,Counting Stars,OneRepublic,85,2013-01-01,"piano rock, pop",0.663,0.706,0.474,122.013,-4.972,257267,1,0
+5o3GnrcFtvkdf3zFznuSbA,Don't Wanna Know (feat. Kendrick Lamar),Maroon 5,67,2018-06-15,pop,0.783,0.611,0.418,100.049,-6.124,214265,7,1
+2dpaYNEQHiRxtZbfNsse99,Happier,Marshmello,11,2018-08-17,"brostep, edm, pop, progressive electro house",0.687,0.792,0.671,100.011,-2.749,214290,5,1
+1nZzRJbFvCEct3uzu04ZoL,Part Of Me,Katy Perry,72,2012-03-12,pop,0.678,0.918,0.77,130.03,-4.63,216160,5,1
+5iFwAOB2TFkPJk8sMlxP8g,Make You Mine,PUBLIC,71,2019-08-09,indie rockism,0.606,0.799,0.638,103.014,-4.452,232907,9,1
+0Nc1rZEB2tZLgpxw5nkpEu,Moon,Kid Francescoli,0,2017-03-03,"french indie pop, french indietronica",0.663,0.658,0.0532,117.986,-10.001,390639,2,1
+6Z8R6UsFuGXGtiIxiD8ISb,Safe And Sound,Capital Cities,51,2013,"metropopolis, modern rock",0.655,0.819,0.766,117.956,-4.852,192790,0,1
+5qaEfEh1AtSdrdrByCP7qR,Demons,Imagine Dragons,83,2012-09-04,"modern rock, pop, rock",0.5,0.71,0.419,89.929,-3.015,177507,3,1
+2ihCaVdNZmnHZWt0fvAM7B,Little Talks,Of Monsters and Men,77,2012-01-01,"folk-pop, metropopolis, modern rock, stomp and holler",0.457,0.757,0.417,102.961,-5.177,266600,1,1
+3w3y8KPTfNeOKPiqUTakBh,Locked out of Heaven,Bruno Mars,89,2012-12-07,"dance pop, pop",0.726,0.698,0.867,143.994,-4.165,233478,5,1
+0ct6r3EGTcMLPtrXHDvVjc,The Nights,Avicii,82,2014-01-01,"dance pop, edm, pop, pop dance",0.527,0.835,0.654,125.983,-5.298,176658,6,1
+4HlFJV71xXKIGcU3kRyttv,"Hey, Soul Sister",Train,83,2010-12-01,"dance pop, neo mellow, pop, pop rock",0.673,0.886,0.795,97.012,-4.44,216773,1,0
+4LyvsPgJtjUQQtw0FJ6Jys,So What,P!nk,41,2008-10-24,"dance pop, pop",0.537,0.866,0.412,126.003,-3.08,215160,11,0
+1oew3nFNY3vMacJAsvry0S,Me And My Broken Heart,Rixton,74,2014-01-01,"post-teen pop, talent show, teen pop, viral pop",0.545,0.783,0.551,174.084,-4.261,193733,5,0
+59dLtGBS26x7kc0rHbaPrq,Nothin' on You (feat. Bruno Mars),B.o.B,77,2010-04-27,"atl hip hop, dance pop, pop rap, rap, southern hip hop",0.688,0.853,0.743,103.993,-5.814,268320,10,1
+5Ohxk2dO5COHF1krpoPigN,Sign of the Times,Harry Styles,81,2017-05-12,pop,0.516,0.595,0.222,119.972,-4.63,340707,5,1
+7lmKwWlnhemDDqex55schS,Kids - Radio Mix,MGMT,33,2008-10-10,"alternative rock, indie rock, indietronica, modern rock, rock",0.468,0.926,0.173,122.991,-3.453,303627,9,1
+6RtPijgfPKROxEzTHNRiDp,Rude,MAGIC!,82,2014-06-25,"pop, reggae fusion",0.773,0.758,0.925,144.033,-4.993,224840,1,1
+1XGmzt0PVuFgQYYnV2It7A,Payphone,Maroon 5,82,2012-01-01,pop,0.743,0.752,0.545,110.015,-4.813,231173,4,1
+7aiClxsDWFRQ0Kzk5KI5ku,hot girl bummer,blackbear,2,2019-08-23,"alt z, pop",0.778,0.559,0.678,129.989,-7.109,185093,6,0
+6kls8cSlUyHW2BUOkDJIZE,Hate Me (with Juice WRLD),Ellie Goulding,68,2019-06-26,"indietronica, metropopolis, pop, uk pop",0.657,0.768,0.759,75.025,-4.628,186223,8,1
+6qt0IWS8y6yGR6gNTEmQzj,Viva La Vida - Live from Spotify London,Coldplay,59,2016-12-16,"permanent wave, pop",0.433,0.922,0.5,138.203,-6.8,234027,8,1
+1oMYET9xQB8XpxwTt2c5Dz,Non mi avete fatto niente,Ermal Meta,40,2018-02-07,italian adult pop,0.568,0.89,0.644,90.025,-4.612,208080,6,1
+476qF2YsjlF2pBNgbn0Q4E,Estoy Hecho De Pedacitos De Ti,Antonio Orozco,57,2011-01-01,"pop flamenco, spanish pop",0.534,0.49,0.332,144.11,-6.788,218520,2,1
+01SoeJJ3ICXaWLBp1jnWk8,Mi Héroe,Antonio Orozco,54,2015-12-04,"pop flamenco, spanish pop",0.491,0.673,0.231,100.533,-7.408,234965,9,0
+47Slg6LuqLaX0VodpSCvPt,Just the Way You Are,Bruno Mars,81,2010-05-11,"dance pop, pop",0.635,0.841,0.424,109.021,-5.379,220734,5,1
+3EPXxR3ImUwfayaurPi3cm,Be Alright,Dean Lewis,74,2018-06-29,"australian pop, pop",0.553,0.586,0.443,126.684,-6.319,196373,11,1
+76cy1WJvNGJTj78UqeA5zr,IDGAF,Dua Lipa,76,2017-06-02,"dance pop, pop, uk pop",0.836,0.544,0.51,97.028,-5.975,217947,7,1
+3cFsmM51N5zMAuu1nNY4Tw,No Lie,Sean Paul,17,2016-11-18,"dance pop, dancehall, pop, pop rap",0.741,0.891,0.449,102.002,-2.824,221176,7,1
+7jr3iPu4O4bTCVwLMbdU2i,Kiss and Make Up,Dua Lipa,71,2018-10-19,"dance pop, pop, uk pop",0.678,0.729,0.643,99.895,-4.188,189173,8,1
+3UUJQXQMK0LwGCl5BhuJrY,Cuando sale el sol,Lágrimas De Sangre,47,2011,"rap catala, rap galego, spanish hip hop",0.675,0.626,0.881,170.002,-6.692,352235,2,1
+3eJr6E40w79CEFlWEN0yLC,Dile,Arce,0,2020-01-07,"spanish hip hop, urbano espanol",0.698,0.531,0.276,86.187,-4.048,206512,10,0
+0BaJrsWrYaxHaz5wdcDfEI,TKM,Arce,0,2019-05-17,"spanish hip hop, urbano espanol",0.684,0.537,0.172,111.802,-8.287,272384,8,1
+3FNVEzMunpVrVda5nO7Kbs,Carpe Diem,Arce,49,2015-09-28,"spanish hip hop, urbano espanol",0.811,0.624,0.359,119.971,-9.149,256996,10,1
+1BYZxKSf0aTxp8ZFoeyM3d,we fell in love in october,girl in red,9,2018-11-21,"bedroom pop, indie pop, norwegian indie, pov: indie",0.566,0.366,0.237,129.959,-12.808,184154,7,1
+4S8wmEZy12C5UJUU0IQUee,Dios Bendiga (Remix),Tito Flow,48,2019-05-10,,0.76,0.838,0.863,159.938,-4.347,241504,6,0
+4WYwP4V2SGCUXJGEha0ODM,Tungs,The Frights,47,2016-02-12,"indie garage rock, indie surf, san diego indie, surf punk",0.565,0.618,0.5,106.337,-11.316,170299,1,0
+1Wrzhfa5bNlqvsnCztz190,Devuélveme a mi chica,Hombres G,78,1985,"latin alternative, latin pop, mexican pop, rock en espanol, spanish rock",0.594,0.936,0.39,172.547,-4.722,194080,9,0
+3quyxN3SapEsojxk1Uw10K,El ataque de las chicas cocodrilo,Hombres G,72,1986,"latin alternative, latin pop, mexican pop, rock en espanol, spanish rock",0.748,0.784,0.633,119.514,-7.008,184080,10,1
+5uCax9HTNlzGybIStD3vDh,Say You Won't Let Go,James Arthur,85,2016-10-28,"pop, talent show, uk pop",0.358,0.557,0.494,85.043,-7.398,211467,10,1
+2OEhqfCsg2y52ghc9i1TRX,Ayer,Arce,52,2015-09-28,"spanish hip hop, urbano espanol",0.681,0.847,0.522,115.531,-7.76,297212,3,1
+01XfZZz4TAYbSDIIWdawzT,"No Pide Tanto, Idiota",Maldita Nerea,51,2014-10-06,"latin arena pop, spanish pop, spanish pop rock",0.63,0.8,0.905,101.996,-5.486,224280,6,0
+7x5xYW5W42OGPAdHUyyguy,Locked Away (feat. Adam Levine),R. City,75,2015-10-09,"reggae fusion, virgin islands reggae",0.509,0.671,0.55,118.413,-5.709,227480,1,1
+2cCAtgB5XDZJSRYzA6kmWY,Colegas,Babi,0,2019-09-20,indie triste,0.774,0.458,0.371,111.131,-8.56,245932,0,1
+7bTwYGhBdSQ8vuXc76Xint,Ophelia,The Lumineers,0,2016-04-08,"folk-pop, modern rock, neo mellow, stomp and holler",0.667,0.58,0.579,76.241,-6.412,160097,5,1
+5ArQzSBevAdXTxRY6Ulhbq,Mama Said,Lukas Graham,63,2016-04-01,"danish pop, scandipop",0.712,0.799,0.591,83.996,-4.564,206903,7,0
+6MpCaSIOfqBqbMED4kXgNY,Prom Queen,Beach Bunny,39,2018-08-10,"bubblegrunge, chicago indie, indie pop, pov: indie",0.528,0.797,0.751,143.785,-7.487,136562,4,1
+0SqqAgdovOE24BzxIClpjw,Yo Perreo Sola,Bad Bunny,69,2020-02-29,"reggaeton, trap latino, urbano latino",0.86,0.758,0.453,97.014,-5.16,172127,11,1
+2DEZmgHKAvm41k4J3R2E9Y,Safaera,Bad Bunny,72,2020-02-29,"reggaeton, trap latino, urbano latino",0.607,0.829,0.685,96.172,-4.074,295177,2,1
+3ITvHA9zhZZdBJsOsAUegF,Amorfoda,Bad Bunny,0,2018-02-15,"reggaeton, trap latino, urbano latino",0.742,0.432,0.252,148.005,-7.539,155676,9,0
+4MZSqgwlE71CWZ6qQ3gkKm,<3,Bad Bunny,65,2020-02-29,"reggaeton, trap latino, urbano latino",0.631,0.665,0.634,80.353,-7.589,157967,10,0
+4saHEjXw7O1NXJOzBkUKKG,Está Cabrón Ser Yo,Bad Bunny,64,2020-02-29,"reggaeton, trap latino, urbano latino",0.81,0.854,0.879,154.083,-3.999,227939,10,0
+3oL3XRtkP1WVbMxf7dtTdu,The One That Got Away,Katy Perry,70,2012-03-12,pop,0.688,0.792,0.863,133.958,-4.023,227333,1,0
+6zEgnpM0qYmHLDnh8WPejL,Amarillo,J Balvin,62,2020-03-19,"reggaeton, reggaeton colombiano, trap latino, urbano latino",0.641,0.857,0.961,122.728,-5.725,157733,1,0
+2qG5sZ7Si6sdK74qLxedYM,Con Altura,ROSALÍA,69,2019-03-28,"pop, r&b en espanol",0.882,0.689,0.746,97.963,-4.027,161627,6,1
+3CRDbSIZ4r5MsZ0YwxuEkn,Stressed Out,Twenty One Pilots,83,2015-05-15,"modern rock, pop, pov: indie, rock",0.734,0.637,0.648,169.977,-5.677,202333,4,0
+5mBWQ675Eb4j4fn6iuNnOe,Dime Bbsita,Robledo,44,2020-04-09,,0.813,0.544,0.707,95.019,-8.884,174197,5,1
+0xsAtU9TemtJgyVnlDNWo3,La Bebe,"Secreto ""El Famoso Biberon""",0,2019-12-18,"dembow, rap dominicano",0.933,0.682,0.265,99.002,-4.236,230296,6,1
+1j4kHkkpqZRBwE0A4CN4Yv,Dusk Till Dawn (feat. Sia) - Radio Edit,ZAYN,70,2017-09-07,"pop, uk pop",0.259,0.437,0.0951,180.042,-6.589,239000,11,0
+1FIv5SzIBWmCF5Xmt8N6BD,Comatose,jxdn,0,2020-02-26,"pop punk, social media pop",0.351,0.852,0.556,162.005,-5.104,155611,11,0
+11EnQRgRMJwMAesfkB5pnu,Se Te Nota (with Guaynaa),Lele Pons,66,2020-09-02,"latin pop, latin viral pop, viral pop",0.905,0.686,0.963,103.013,-3.152,155825,0,1
+6vvSGoVQHk4fHVFpt4roGL,Te Juro,Funzo & Baby Loud,39,2020-12-03,"rap espanol, trap triste",0.764,0.647,0.413,120.028,-7.122,219392,0,1
+3wwo0bJvDSorOpNfzEkfXx,Let Me Know (I Wonder Why Freestyle),Juice WRLD,78,2019-12-07,"chicago rap, melodic rap, rap",0.635,0.537,0.383,125.028,-7.895,215381,7,0
+7lPN2DXiMsVn7XUKtOW1CS,drivers license,Olivia Rodrigo,19,2021-01-08,pop,0.585,0.436,0.132,143.874,-8.761,242014,10,1
+5kcvBnt6DPX3AMEsCx1qDh,Happiest Year,Jaymes Young,1,2019-07-12,indie poptimism,0.501,0.167,0.356,112.275,-14.061,228443,1,1
+2KrN3MCNztKcSleZgHEj83,Little Lion Man,Mumford & Sons,66,2009-01-01,"modern folk rock, modern rock, neo mellow, stomp and holler, uk americana",0.517,0.492,0.455,138.585,-8.05,245173,5,1
+3hRV0jL3vUpRrcy398teAU,The Night We Met,Lord Huron,88,2015-04-06,"indie folk, stomp and holler",0.448,0.369,0.0998,174.097,-9.514,208212,9,1
+3ZCTVFBt2Brf31RLEnCkWJ,everything i wanted,Billie Eilish,82,2019-11-13,"art pop, pop",0.704,0.225,0.243,120.006,-14.454,245426,6,0
+3JvKfv6T31zO0ini8iNItO,Another Love,Tom Odell,86,2013-06-24,chill pop,0.445,0.537,0.131,122.769,-8.532,244360,4,0
+1eWWdO6oIBdJT8SCXaYCYV,Tu Foto Del DNI,Marmi,51,2020-09-14,,0.488,0.922,0.52,172.804,-2.542,179653,10,0
+5vesgtppg9TkTSJ6fTHJ7H,Tal y Cual,Pole.,35,2020-10-29,spanish pop,0.748,0.814,0.614,99.979,-5.866,206089,2,1
+1Xi84slp6FryDSCbzq4UCD,Arcade,Duncan Laurence,73,2019-03-07,dutch pop,0.459,0.331,0.271,72.023,-12.603,183624,9,0
+1rIKgCH4H52lrvDcz50hS8,Lush Life,Zara Larsson,81,2017-03-17,"pop, scandipop, swedish electropop, swedish pop",0.694,0.712,0.799,98.023,-3.923,201122,7,0
+2hSBhzE4hbWRWl4PLMiJsu,JOVEN PARA SIEMPRE,Funzo & Baby Loud,48,2021-03-05,"rap espanol, trap triste",0.537,0.904,0.75,179.961,-5.868,169375,5,1
+06ZtJB09ab4la47q7ZcPbB,MONTERO (Call Me By Your Name),Lil Nas X,0,2021-03-29,lgbtq+ hip hop,0.61,0.508,0.758,178.818,-6.682,137876,8,0
+79EkGysjP2dL5GdpeQjRxT,This Side of Paradise,Coyote Theory,77,2020-12-11,pov: indie,0.306,0.664,0.321,158.283,-6.07,242010,9,1
+755inykyaG4w22GWAsA3MX,Marlboro Nights,Lonely God,72,2018-06-28,modern indie pop,0.466,0.823,0.782,175.797,-6.635,68523,2,1
+5YOkA7qd2983FtBQnP8sYx,Solo de Mi,Bad Bunny,56,2018-12-14,"reggaeton, trap latino, urbano latino",0.743,0.73,0.15,179.972,-4.314,197968,10,0
+4grVkAtmqIipynBu8D9v6G,Hypnotized,Purple Disco Machine,49,2020-04-08,"deep house, house",0.689,0.813,0.704,108.065,-5.084,195704,11,0
+0HUTL8i4y4MiGCPId7M7wb,Freaks,Surf Curse,1,2015-05-10,"dreamo, indie surf, pov: indie, surf punk, vegas indie",0.346,0.944,0.403,179.63,-9.874,147036,9,1
+4pt5fDVTg5GhEvEtlz9dKk,I WANNA BE YOUR SLAVE,Måneskin,81,2021-03-19,"indie rock italiano, italian pop",0.75,0.608,0.958,132.507,-4.008,173347,1,1
+7MXlTgQeo3IVlMpLnZuhxc,It's Time,Imagine Dragons,71,2012-09-04,"modern rock, pop, rock",0.656,0.884,0.858,105.009,-4.748,240307,2,1
+5AWf5hFimKqsdz7fh0wI8i,Sin Noticias De Gurb,Miki Núñez,26,2020-11-19,"latin talent show, reggae catala",0.569,0.843,0.763,146.024,-2.752,234405,11,1
+6Qi1MNFHCLo4bVsV14MOmz,Libertad,Nil Moliner,51,2021-04-09,spanish pop,0.605,0.703,0.686,132.081,-6.707,218079,4,1
+7fVw4DNfOtu5Xgu7OEVCyw,Treat You Better,Shawn Mendes,0,2021-06-08,"canadian pop, pop, viral pop",0.443,0.82,0.771,82.697,-4.091,187973,10,0
+3AJwUDP919kvQ9QcozQPxg,Yellow,Coldplay,89,2000-07-10,"permanent wave, pop",0.429,0.661,0.285,173.372,-7.227,266773,11,1
+6PERP62TejQjgHu81OHxgM,good 4 u,Olivia Rodrigo,16,2021-05-14,pop,0.556,0.661,0.668,168.56,-5.052,178148,6,0
+6jHvX8ZnHKC1PnrPMJ0Emt,Cigarette Daydreams,Cage The Elephant,72,2013-10-08,"modern alternative rock, modern rock, pov: indie, punk blues, rock",0.636,0.676,0.273,113.98,-3.442,208760,2,1
+2JPLbjOn0wPCngEot2STUS,Yonaguni,Bad Bunny,75,2021-06-04,"reggaeton, trap latino, urbano latino",0.644,0.648,0.44,179.951,-4.601,206710,1,1
+3KJ3opyV29269SXkPrc19l,120,Bad Bunny,72,2020-11-27,"reggaeton, trap latino, urbano latino",0.636,0.656,0.439,171.918,-5.542,151506,2,0
+5jzEwSyyymBlf1fa1o39T2,512,Mora,74,2021-02-05,"trap latino, urbano latino",0.818,0.673,0.695,87.961,-7.542,193636,4,0
+27RSJHEA99Y0Vsow7nA37A,911 (Remix),Sech,66,2021-07-09,"panamanian pop, reggaeton, trap latino, urbano latino",0.816,0.71,0.784,93.02,-3.728,208631,7,1
+2tGvwE8GcFKwNdAXMnlbfl,happier,Olivia Rodrigo,82,2021-05-21,pop,0.395,0.443,0.338,168.924,-9.72,175933,6,1
+4kbj5MwxO1bq9wjT5g9HaA,Shut Up and Dance,WALK THE MOON,83,2014-12-02,"dance rock, modern alternative rock, modern rock, neo mellow, pop rock",0.578,0.866,0.619,128.038,-3.804,199080,1,1
+4wCmqSrbyCgxEXROQE6vtV,Somebody That I Used To Know,Gotye,74,2011-01-01,australian pop,0.864,0.495,0.72,129.062,-7.036,244973,0,1
+6HZ9VeI5IRFCNQLXhpF4bq,I Love It (feat. Charli XCX),Icona Pop,71,2013-08-27,"candy pop, dance pop, electropop, metropopolis, swedish electropop, swedish synthpop",0.711,0.906,0.824,125.916,-2.671,157153,8,1
+1MdsletWuIR9ItEnitWRwp,Me Quedo (feat. Ana Mena),Nil Moliner,37,2021-07-23,spanish pop,0.728,0.874,0.963,91.027,-6.236,163354,6,0
+5TMLavqGRKNxgzMBrVpC9R,Mon Amour - Remix,zzoilo,75,2021-08-18,latin pop,0.748,0.761,0.362,116.041,-6.621,179940,2,1
+5YUjyrTvDOaZkbOJGxqb30,Bad - Buskilaz Remix,Buskilaz,0,2021-07-01,,0.871,0.77,0.544,102.051,-4.456,186500,9,1
+5dDxdj2MrqrYCGzqXfJycL,AYNEA REMIX,FMK,57,2020-12-17,"trap argentino, trap triste",0.618,0.499,0.445,171.924,-5.368,298605,0,1
+1rCcsYnmqbMYdkG7kS9GC5,Speechless (feat. Erika Sirola),Robin Schulz,57,2018-11-16,"deep euro house, deep house, edm, german dance, pop dance, tropical house",0.574,0.728,0.266,125.047,-4.777,214942,1,1
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),Billie Eilish,86,2018-04-19,"art pop, pop",0.351,0.296,0.12,115.284,-10.109,200186,4,0
+4RVwu0g32PAqgUiJoXsdF8,Happier Than Ever,Billie Eilish,82,2021-07-30,"art pop, pop",0.332,0.225,0.297,81.055,-8.697,298899,0,1
+43zdsphuZLzwA9k4DJhU0I,when the party's over,Billie Eilish,84,2019-03-29,"art pop, pop",0.367,0.111,0.198,82.642,-14.084,196077,4,1
+5CZ40GBx1sQ9agT82CLQCT,traitor,Olivia Rodrigo,83,2021-05-21,pop,0.38,0.339,0.0849,100.607,-7.885,229227,3,1
+0MMyJUC3WNnFS1lit5pTjk,"jealousy, jealousy",Olivia Rodrigo,80,2021-05-21,pop,0.695,0.575,0.699,163.929,-6.334,173160,10,0
+49iOVtExuJU9faigS2JRUf,Beba Qué Quieres Que Haga,Omar Montes,50,2021-08-05,"flamenco urbano, urbano espanol",0.691,0.937,0.9,100.122,-1.343,178264,2,1
+6Uj1ctrBOjOas8xZXGqKk4,Woman,Doja Cat,82,2021-06-25,"dance pop, pop",0.824,0.764,0.881,107.998,-4.175,172627,5,0
+0giiXonRhODYy4J1iy4Lb3,Sexo Virtual,Rauw Alejandro,0,2021-06-25,"puerto rican pop, reggaeton, trap latino, urbano latino",0.704,0.739,0.425,179.879,-3.286,208292,8,1
+0eu4C55hL6x29mmeAjytzC,Life Goes On,Oliver Tree,70,2021-05-28,alternative hip hop,0.7,0.49,0.569,79.982,-5.187,161803,0,1
+2uu2aGqA2UblCg581Q7l1g,Caramelo - Remix,Ozuna,60,2020-08-17,"puerto rican pop, reggaeton, trap latino, urbano latino",0.754,0.796,0.62,168.045,-3.743,233160,3,0
+0SiywuOBRcynK0uKGWdCnn,Bad Romance,Lady Gaga,82,2009-11-05,"art pop, dance pop, pop",0.695,0.921,0.714,119.007,-3.752,294573,0,1
+3GaGWoU1KfVqgl7vnRHP55,Demasiadas Mujeres,C. Tangana,70,2021-02-26,urbano espanol,0.658,0.453,0.358,126.043,-7.378,153960,9,0
+5gflgO9EPbIBf16n5TKnQS,Yo Voy (feat. Daddy Yankee),Zion & Lennox,75,2004-05-04,"reggaeton, urbano latino",0.808,0.697,0.554,95.06,-5.899,232020,10,1
+06s3QtMJVXw1AJX3UfvZG1,Hasta Que Dios Diga,Anuel AA,74,2020-05-29,"reggaeton, reggaeton flow, trap boricua, trap latino, urbano latino",0.691,0.765,0.855,174.021,-4.727,246000,8,1
+4gzsuuZypVbxs0Af1LSZyB,Lo Siento BB:/ (with Bad Bunny & Julieta Venegas),Tainy,70,2021-10-05,"pop reggaeton, reggaeton, trap latino, urbano latino",0.639,0.703,0.138,169.888,-6.33,207301,4,0
+4axxCbc4tWlpqHP5UbJMc3,"Ptazeta: Bzrp Music Sessions, Vol. 45",Bizarrap,60,2021-10-06,"argentine hip hop, pop venezolano, trap argentino, trap latino, urbano latino",0.829,0.81,0.707,114.044,-4.801,161485,2,1
+2v8X6L6j0kbUPXDZwtXvXU,Why'd You Only Call Me When You're High?,Arctic Monkeys,0,2013-09-09,"garage rock, modern rock, permanent wave, rock, sheffield indie",0.691,0.631,0.8,92.004,-6.478,161124,2,1
+1BOLgpXolZEcIaCEIuFhPM,Flow 2000,Bad Gyal,55,2021-10-14,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.844,0.802,0.372,95.13,-3.781,155213,6,0
+51BuVemKtCRCOHF1wPlxRf,Me Contagie,Various Art,0,2021-08-15,,0.589,0.528,0.473,82.277,-8.869,378810,6,1
+2Y0iGXY6m6immVb2ktbseM,Little Dark Age,MGMT,76,2018-02-09,"alternative rock, indie rock, indietronica, modern rock, rock",0.705,0.712,0.62,97.512,-6.156,299960,6,1
+07MDkzWARZaLEdKxo6yArG,Meet Me At Our Spot,THE ANXIETY,71,2020-03-13,modern alternative pop,0.773,0.47,0.399,94.995,-7.93,162680,2,1
+5HCyWlXZPP0y6Gqq8TgA20,STAY (with Justin Bieber),The Kid LAROI,78,2021-07-09,australian hip hop,0.591,0.764,0.478,169.928,-5.484,141806,1,1
+2ctjDCCg1wHoQSjIJ8p6U4,Candy,Plan B,70,2014-08-25,"reggaeton, trap latino, urbano latino",0.897,0.864,0.542,95.981,-3.735,207627,11,0
+1wncA7mz0ntqvZ8UzFokGk,Venezia,Hombres G,64,1985,"latin alternative, latin pop, mexican pop, rock en espanol, spanish rock",0.583,0.904,0.531,168.483,-4.125,270080,1,1
+6P096SaOzrgGxs8NWOfX7M,Salimo de Noche,Tiago PZK,58,2021-10-21,"trap argentino, trap latino, urbano latino",0.669,0.628,0.784,83.803,-4.177,177857,2,1
+4KXtFUFmPObTROXShFLHZX,"Ajena (with Myke Towers, Dylan Fuentes)",Dayme y El High,61,2019-04-16,"reggaeton, reggaeton flow, trap latino, urbano latino",0.701,0.604,0.718,195.801,-5.381,162902,0,0
+4TMUKLW53GlhS65rzmYWXh,Ciudad de las Mentiras,Alicia por favor,8,2021-12-10,,0.709,0.799,0.381,117.896,-5.304,203925,10,0
+3pYDZTJM2tVBUhIRifWVzI,Blow,Kesha,70,2010-11-19,"dance pop, pop",0.753,0.729,0.812,120.013,-3.862,219973,11,0
+5fBQLapwAPSLw27STml9kr,TITAN,Salastkbron,0,2021-11-03,pop argentino,0.725,0.516,0.916,180.043,-8.865,122723,5,0
+5W1qmxHrMlQGGAiFA3ZQqP,Se Le Ve,Dímelo Flow,58,2021-08-12,"reggaeton, urbano latino",0.562,0.755,0.609,83.997,-4.367,277693,7,0
+5FVNpPC0H4fVc4FJin5vBg,Terra,Tanxugueiras,42,2021-12-21,galician folk,0.566,0.692,0.175,69.963,-5.585,178965,2,1
+74xJ93SJIeY3yunnJ3lbGm,Calle de la Llorería,Rayden,36,2021-12-20,"rap conciencia, spanish hip hop",0.588,0.897,0.612,94.152,-3.255,180000,4,1
+5u0xk0BhVZ7sL6mgzbhLi8,Voy a Morir,LUNA KI,31,2021-12-22,urbano espanol,0.504,0.897,0.338,154.934,-2.974,180930,1,1
+1r9xUipOqoNwggBpENDsvJ,Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,75,2021-10-28,"modern rock, pop, rock",0.728,0.783,0.555,77.011,-4.424,173381,11,0
+7JZ5mOTea5T4LH0UdwCsWx,TOP 5,Duki,61,2021-11-25,"argentine hip hop, trap argentino, trap latino, trap triste, urbano latino",0.853,0.824,0.693,100.05,-3.384,146815,2,1
+4w47S36wQGBhGg073q3nt7,TKN (feat. Travis Scott),ROSALÍA,67,2020-05-28,"pop, r&b en espanol",0.776,0.509,0.485,94.634,-6.266,129371,0,0
+5YqltLsjdqFtvqE7Nrysvs,We Are Never Ever Getting Back Together (Taylor's Version),Taylor Swift,73,2021-11-12,pop,0.567,0.686,0.716,172.014,-6.139,193147,7,1
+5GorCbAP4aL0EJ16frG2hd,Boulevard of Broken Dreams,Green Day,70,2017-11-17,"modern rock, permanent wave, punk, rock",0.496,0.682,0.474,167.06,-4.095,262333,8,1
+6VgrB6MXav4yBLdZWSECDg,Hello - Radio Edit,Martin Solveig,35,2010,"disco house, edm, electro house, filter house, house, pop dance, vocal house",0.666,0.975,0.452,128.012,-3.47,191388,3,1
+3UdCKzEkcnoHblu0j3nWED,Enterrauw,Soy Jhayco,0,2022-01-03,,0.662,0.874,0.634,127.029,-4.771,416202,7,1
+5JCoSi02qi3jJeHdZXMmR8,favorite crime,Olivia Rodrigo,82,2021-05-21,pop,0.369,0.272,0.218,172.929,-10.497,152667,9,1
+0MoQI1EZGSHLhd5UBdxPol,Substance,03 Greedo,66,2018-03-09,"cali rap, melodic rap",0.599,0.32,0.197,70.998,-13.716,219834,3,0
+1ZgMsA55GIY7ICkQh5MILA,Space Song,Beach House,73,2015-08-28,"art pop, baltimore indie, dream pop, dreamo, indie rock, indietronica, modern dream pop, pov: indie",0.508,0.786,0.611,147.077,-7.295,320467,0,0
+2K7xn816oNHJZ0aVqdQsha,Softcore,The Neighbourhood,84,2018-11-02,"modern alternative rock, modern rock, pop",0.575,0.568,0.37,93.986,-5.509,206280,9,0
+5r7V1rHEdjJhaAJK0fzuj6,Video Killed The Radio Star,The Buggles,32,2017-10-20,"early synthpop, new wave pop, zolo",0.662,0.541,0.302,131.177,-13.375,251600,1,1
+6wYP9kb4lxaj7GL6Khf3X9,Pacto,Maikel Delacalle,21,2022-01-27,"rap canario, trap latino, urbano espanol",0.852,0.596,0.784,91.047,-7.469,151978,6,0
+1AnJQd8TfkhK6M3VgZDVv1,Los Malvekes,Cris Mj,0,2021-10-29,"mambo chileno, trap latino, urbano chileno, urbano latino",0.798,0.813,0.535,96.005,-6.343,218000,0,1
+4GRFzKI7jTZ3kbMfouc7bn,Backstabber,Kesha,69,2010-01-01,"dance pop, pop",0.6,0.939,0.833,159.941,-1.794,186840,7,1
+1O2pcBJGej0pmH2Y9XZMs6,Una Noche en Medellín,Cris Mj,6,2022-01-21,"mambo chileno, trap latino, urbano chileno, urbano latino",0.87,0.548,0.832,96.018,-5.253,153750,10,0
+68QcquxCS39cQGTsRrJWIR,Amorfoda,Bad Bunny,72,2018-02-15,"reggaeton, trap latino, urbano latino",0.749,0.418,0.307,147.887,-7.925,153887,9,0
+0vNY7uNEG8El6doRdP21D5,Emiliana,CKay,0,2021-12-03,"afro r&b, afrobeats",0.738,0.549,0.475,98.965,-9.704,164848,6,1
+4PDJDIdWxNN1AlnbrKkoPf,Come Over (Again),Crawlers,56,2021-10-29,warrington indie,0.498,0.713,0.235,93.018,-7.738,254419,2,1
+62ke5zFUJN6RvtXZgVH0F8,Only Love Can Hurt Like This,Paloma Faith,76,2014-03-10,"british soul, talent show, uk pop",0.566,0.885,0.304,90.99,-4.528,232893,8,1
+5kwgMFf58HjfRnn536rRUP,Septiembre,LUNA KI,0,2019-02-09,urbano espanol,0.682,0.892,0.572,115.992,-5.94,125200,6,1
+2OWVCFTolecLiGZPquvWvT,Estamos Bien,Bad Bunny,66,2018-12-23,"reggaeton, trap latino, urbano latino",0.79,0.537,0.444,120.073,-6.662,208080,9,0
+0iGckQFyv6svOfAbAY9aWJ,Hot N Cold,Katy Perry,74,2008-06-17,pop,0.706,0.842,0.861,132.032,-3.956,220227,7,1
+60DHrnRAhNJMy4WeEf23NH,Butakera,La Joaqui,63,2022-07-28,"argentine hip hop, rap latina",0.871,0.563,0.457,88.96,-6.422,143402,1,1
+4nrPB8O7Y7wsOCJdgXkthe,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap,76,2023-01-11,"argentine hip hop, pop venezolano, trap argentino, trap latino, urbano latino",0.842,0.745,0.53,122.06,-4.231,214945,2,0
+5xtxxuIqInrLDSfjA6Co3o,Fiebre (Prod. King DouDou),Bad Gyal,71,2016-11-11,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.421,0.72,0.24,97.998,-6.257,247500,7,1
+6t48UVZvQWh5wWfWlCZfzY,La Prendo,Bad Gyal,58,2022-05-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.917,0.776,0.656,114.941,-2.248,181987,9,0
+1z5TNHJ4WP2ftKhRpqdoNY,Nueva York (Tot*),Bad Gyal,55,2021-11-25,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.725,0.975,0.885,130.053,-2.671,154173,4,0
+5u5S7D8NaQzyKkdU4duHJR,Blin Blin,Bad Gyal,53,2020-11-13,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.771,0.735,0.72,96.253,-3.388,144613,1,1
+2635EEV2Oi6wg6GV2TPYVx,Tu Eres Un Bom Bom - Remix,Kafu Banton,53,2020-04-10,panamanian pop,0.882,0.706,0.529,97.011,-5.015,173453,1,1
+0OP1RzrglC008kj79Httv3,Zorra,Bad Gyal,56,2019-12-12,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.637,0.65,0.736,176.075,-6.646,186120,11,1
+2mnXxnrX5vCGolNkaFvVeM,La Jumpa,Arcángel,68,2022-12-01,"latin hip hop, reggaeton, trap latino, urbano latino",0.713,0.703,0.576,123.06,-5.769,255693,8,1
+31i56LZnwE6uSu3exoHjtB,Neverita,Bad Bunny,75,2022-05-06,"reggaeton, trap latino, urbano latino",0.876,0.498,0.428,122.016,-7.511,173119,10,1
+6Xom58OOXk2SoU711L2IXO,Moscow Mule,Bad Bunny,79,2022-05-06,"reggaeton, trap latino, urbano latino",0.804,0.674,0.292,99.968,-5.453,245940,5,0
+35wvL50xvKpCHEJPxLOLPI,Si Estuviésemos Juntos,Bad Bunny,78,2018-12-23,"reggaeton, trap latino, urbano latino",0.672,0.595,0.159,171.863,-6.828,169248,1,0
+5Eax0qFko2dh7Rl2lYs3bx,Efecto,Bad Bunny,79,2022-05-06,"reggaeton, trap latino, urbano latino",0.801,0.475,0.234,98.047,-8.797,213061,7,0
+7sOfmPd18RWp3FoCzpa7Kw,Soliá,Bad Bunny,69,2020-02-29,"reggaeton, trap latino, urbano latino",0.71,0.81,0.184,92.041,-5.507,159282,2,1
+5gFAT2DbEt4TOMXyAMEixG,Netflixxx,Brytiago,0,2017-06-30,"reggaeton, trap latino, urbano latino",0.707,0.609,0.579,134.91,-5.673,218909,6,0
+5YY7ht3PCArlLjLbcTiAvh,"Escápate Conmigo (feat. Ozuna, Bad Bunny, De La Ghetto, Arcángel, Noriel & Almighty) - Remix",Wisin,63,2017-12-01,"reggaeton, urbano latino",0.797,0.804,0.451,91.973,-4.817,386333,1,1
+7hynhxDoDpgMIV12JuVtNa,UN PESO,J Balvin,75,2019-06-28,"reggaeton, reggaeton colombiano, trap latino, urbano latino",0.627,0.675,0.961,79.31,-7.125,277107,5,0
+4vCAzANUWDE24URV6wQ4ra,Otra Noche en Miami,Bad Bunny,73,2018-12-23,"reggaeton, trap latino, urbano latino",0.513,0.647,0.278,88.811,-8.843,233128,1,1
+6Sq7ltF9Qa7SNFBsV5Cogx,Me Porto Bonito,Bad Bunny,81,2022-05-06,"reggaeton, trap latino, urbano latino",0.911,0.712,0.425,92.005,-5.105,178567,1,0
+5jt25aFjW2kNoBqaEVaz5W,LA INOCENTE,Mora,78,2022-04-01,"trap latino, urbano latino",0.757,0.789,0.464,91.911,-3.46,202174,5,0
+2hLXUbsOU9cDb9RFva9FYr,MEMORIAS,Mora,73,2022-04-01,"trap latino, urbano latino",0.771,0.707,0.317,127.963,-6.404,228750,2,0
+5S7FewmYYyLNdMOfeEcB6P,COMO HAS ESTAU?,Mora,68,2022-11-03,"trap latino, urbano latino",0.793,0.62,0.917,111.979,-3.769,127333,3,0
+0G2zPzWqVjR68iNPmx2TBe,Volando - Remix,Mora,73,2021-07-08,"trap latino, urbano latino",0.659,0.688,0.632,153.979,-4.649,273474,6,1
+0NO2zL0kw8sGGnaMvHKAZF,Marisola - Remix,Cris Mj,72,2022-12-15,"mambo chileno, trap latino, urbano chileno, urbano latino",0.765,0.872,0.722,94.999,-5.863,237474,1,1
+4IkSOwB9JRhq7oScl4pCW9,¿Y pa la Wacha Loca? (con Salastkbron) - Remix,Gusty dj,56,2023-01-05,rkt,0.836,0.765,0.68,97.009,-4.458,229426,9,1
+2tTmW7RDtMQtBk7m2rYeSw,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap,80,2022-07-06,"argentine hip hop, pop venezolano, trap argentino, trap latino, urbano latino",0.621,0.782,0.55,128.033,-5.548,198938,2,1
+4hceSKjrkDTO0nMKFcb3sj,"Villano Antillano: Bzrp Music Sessions, Vol. 51",Bizarrap,67,2022-06-08,"argentine hip hop, pop venezolano, trap argentino, trap latino, urbano latino",0.82,0.752,0.423,127.999,-7.635,187500,1,0
+6VAS7m73rDopQe7BdrFMpD,"Tiago PZK: Bzrp Music Sessions, Vol. 48",Bizarrap,69,2021-12-29,"argentine hip hop, pop venezolano, trap argentino, trap latino, urbano latino",0.657,0.821,0.752,96.561,-3.06,160000,8,0
+6wywJ7RutAY0JL7cMP7uFN,Mirándote,Rvfv,72,2019-06-18,"drill espanol, flamenco urbano, urbano espanol, urbano latino",0.689,0.739,0.473,106.447,-5.566,135915,0,1
+0ztgfQJ8raYUjuuJC8Ik42,Tamagotchi,GUNTTER,0,2022-11-05,,0.87,0.664,0.84,98.013,-8.716,151000,1,1
+4I4FFtKZLtyqw4he9pPtL7,Vida Gangster,Lauty Gram,58,2022-12-08,rkt,0.693,0.756,0.53,94.884,-5.209,170058,4,0
+4t9a07PAghtQMRAIP9FQ7Z,Soltera (Remix),Lunay,72,2019-10-25,"reggaeton, reggaeton flow, trap latino, urbano latino",0.795,0.783,0.799,92.01,-4.271,266087,5,1
+7MmrcXVA7A5zZ2CbDuGHNa,A Mí,Rels B,79,2019-02-21,"r&b en espanol, spanish hip hop, trap latino, urbano espanol, urbano latino",0.846,0.548,0.516,94.925,-6.397,209680,1,1
+7MVIfkyzuUmQ716j8U7yGR,Rara Vez,Milo j,80,2023-02-08,"trap argentino, trap latino, urbano latino",0.838,0.708,0.96,119.984,-4.668,128677,5,0
+0DWdj2oZMBFSzRsi2Cvfzf,TQG,KAROL G,81,2023-02-24,"reggaeton, reggaeton colombiano, urbano latino",0.587,0.647,0.686,90.123,-3.385,197933,4,0
+2lwrv8g1JbRlhhqYpPVnlE,Sugar Mami,La Zowi,51,2020-07-17,"rap latina, urbano espanol",0.883,0.563,0.473,98.038,-7.052,176327,7,1
+1UuZIUgkiVPhIkhbYlLTeD,Superman Sin Capa,El Super Nuevo,0,2016-05-22,"dembow, rap dominicano",0.796,0.925,0.605,115.008,-2.056,230154,4,0
+0ynhqjP6gIxoaGTWibGhjc,Uva Bombom,Rochy RD,60,2021-08-20,"dembow, dembow dominicano, rap dominicano, trap latino",0.63,0.92,0.963,227.895,-1.564,136427,1,0
+0Iozrbed8spxoBnmtBMshO,WANDA,Quevedo,71,2023-01-20,"rap canario, trap latino, urbano latino",0.719,0.657,0.954,176.031,-4.372,160909,4,0
+240Wr3oL2io76a5D6wfQsm,Sin Carné,Bad Gyal,43,2022-10-06,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.833,0.693,0.626,96.007,-4.799,117680,1,0
+41wtwzCZkXwpnakmwJ239F,Si Veo a Tu Mamá,Bad Bunny,74,2020-02-29,"reggaeton, trap latino, urbano latino",0.9,0.603,0.824,129.928,-5.313,170972,2,1
+4Z43nMEiOiNeDrqu2BN0JD,La tua canzone,Coez,62,2019-03-29,"italian adult pop, italian pop, rap napoletano, rome indie",0.491,0.776,0.626,179.927,-5.119,192040,1,1
+0zY2rypOdM8xmsf4tUyafF,SUPERNOVA,SAIKO,59,2023-04-19,"trap latino, urbano espanol, urbano latino",0.499,0.676,0.263,176.068,-6.722,190909,10,0
+4WiySU6ohEQpdnbze6D2CH,Se Pega,Maffio,18,2022-05-13,,0.562,0.575,0.815,210.013,-5.555,138321,10,0
+5fROvzNghPid8mbKNDYvpJ,YO VISTO ASÍ,Bad Bunny,61,2020-11-27,"reggaeton, trap latino, urbano latino",0.688,0.881,0.677,123.013,-4.889,191526,7,0
+2ROQe6QkIXODJRx0y8UjzV,Delincuente,Tokischa,69,2022-08-19,"rap latina, trap dominicano",0.798,0.71,0.662,97.875,-3.39,226491,2,1
+5RX8T3EoTuXcybAxe6oPAw,Cha Cha Cha,Käärijä,62,2023-01-17,finnish pop,0.718,0.791,0.743,155.082,-5.572,175161,2,1
+4ijX6zDZKYdgACPwva2y0d,Escápate Conmigo - Remix,Wolfine,59,2012-09-06,"colombian pop, reggaeton, urbano latino",0.826,0.881,0.737,93.997,-7.755,167419,8,1
+6hpxFeXdcn1cvjtxXc7NSD,AN1MAL,Lola Indigo,38,2022-06-02,spanish pop,0.767,0.62,0.585,124.972,-5.406,163893,9,0
+6PSyxMi8vTq5m25Yh6Oc6J,DISCOTEKA,Lola Indigo,52,2023-04-13,spanish pop,0.793,0.865,0.545,105.996,-5.473,174387,4,0
+2ack8D0tjC7mzdDOg7ikQ5,La Tirita,Belén Aguilera,36,2020-11-27,spanish pop,0.774,0.586,0.713,102.008,-8.392,172632,0,1
+2Y9W6qcN9COH0XyeYApQOE,Toy Story,Lola Indigo,44,2022-04-07,spanish pop,0.893,0.719,0.898,112.012,-5.635,179912,11,0
+4R8TsvDoKSSDVERlaphNBA,Mujer Bruja,Lola Indigo,39,2018-12-20,spanish pop,0.773,0.917,0.763,105.966,-2.166,203774,10,0
+6KS9MjBx9PnEetb0XUqGv6,Trendy,Rvfv,47,2020-07-24,"drill espanol, flamenco urbano, urbano espanol, urbano latino",0.732,0.748,0.418,100.835,-3.939,183564,1,0
+4rKQ8daoK0aklVptea8A9E,EL TONTO,Lola Indigo,66,2023-04-13,spanish pop,0.799,0.797,0.694,110.015,-5.365,187987,0,1
+2A2Q4CYBcVvBF2OqgJ3OWX,Ya No Quiero Ná,Lola Indigo,42,2018-07-19,spanish pop,0.846,0.467,0.367,129.016,-7.178,192975,2,1
+4WiQA1AGWHFvaxBU6bHghs,PUNTO G,Quevedo,74,2023-01-20,"rap canario, trap latino, urbano latino",0.745,0.77,0.629,92.044,-3.653,151325,9,1
+3pjvkWO9fqiRRBE1tDLu3S,SIN SEÑAL,Quevedo,66,2023-01-20,"rap canario, trap latino, urbano latino",0.822,0.851,0.749,117.992,-3.314,185085,11,0
+6ifUES3keWjwXgae8pXI3o,Me Rehúso,Danny Ocean,78,2019-03-22,"pop venezolano, reggaeton, trap latino, urbano latino",0.744,0.804,0.426,104.823,-6.327,205715,1,1
+1UdzJEpgJxtuXAlCOvD4S0,Fuera del mercado,Danny Ocean,76,2022-02-17,"pop venezolano, reggaeton, trap latino, urbano latino",0.453,0.673,0.266,92.06,-5.649,159849,8,1
+6r0bDGDS8JJShneQkMAzj1,MUEVELO,Black Eyed Peas,46,2022-11-09,"dance pop, pop, pop rap",0.86,0.76,0.638,117.985,-7.218,254237,2,0
+5AqiaZwhmC6dIbgWrD5SzV,"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap,71,2023-06-01,"argentine hip hop, pop venezolano, trap argentino, trap latino, urbano latino",0.785,0.726,0.622,133.118,-6.422,188362,5,0
+4UGqAW9i7NtE5mW9xzm6yk,PUNTO 40,Rauw Alejandro,69,2023-01-24,"puerto rican pop, reggaeton, trap latino, urbano latino",0.857,0.829,0.208,106.993,-0.484,190654,0,1
+1aUq8rjW1EwkAkMri4VfJy,LOKERA,Rauw Alejandro,79,2023-01-24,"puerto rican pop, reggaeton, trap latino, urbano latino",0.836,0.826,0.579,102.025,-2.66,197101,11,0
+0OTNHGKcqQbk51bOYe462Y,ULTRA SOLO,Polimá Westcoast,66,2022-02-14,"trap chileno, trap triste, urbano chileno",0.802,0.846,0.26,109.982,-4.495,227221,1,1
+36W1V6ft4fX7HQVSdIYL0J,Las Bratz (Remix),Aissa,62,2023-03-08,urbano espanol,0.81,0.815,0.958,95.003,-3.101,444632,10,0
+2NFadq6pUeiVEihLvUlOSr,"Rauw Alejandro: Bzrp Music Sessions, Vol. 56",Bizarrap,65,2023-06-21,"argentine hip hop, pop venezolano, trap argentino, trap latino, urbano latino",0.774,0.572,0.489,128.01,-6.0,191254,11,1
+7ABLbnD53cQK00mhcaOUVG,LALA,Myke Towers,82,2023-03-23,"reggaeton, trap latino, urbano latino",0.708,0.737,0.607,91.986,-4.045,197920,1,1
+4XvtZdrlqPZ1H0Y7dV6RRL,PAYDAY,TAICHU,42,2023-04-27,trap argentino,0.825,0.776,0.511,100.007,-3.158,158967,11,0
+0J9g1MMJDhyvOb3NWckHMm,Chulo pt.2,Bad Gyal,68,2023-06-22,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.852,0.881,0.556,96.984,-2.546,219333,5,0
+1FhRIZtz1d4qLVe4928exT,LAS BABYS,Aitana,55,2023-06-06,"latin talent show, latin viral pop, spanish pop",0.695,0.815,0.718,127.991,-6.303,153827,7,1
+20CozgjF6bshBw8cLhN23B,Nochentera,Vicco,62,2022-12-19,,0.802,0.728,0.782,121.92,-6.456,202185,8,0
+2FYGZDfsAnNsrm1gVbyKnG,SAOKO,ROSALÍA,62,2022-03-18,"pop, r&b en espanol",0.827,0.768,0.734,99.988,-5.702,137533,0,1
+6XbtvPmIpyCbjuT0e8cQtp,Columbia,Quevedo,81,2023-07-07,"rap canario, trap latino, urbano latino",0.668,0.712,0.264,100.02,-5.927,186000,5,1
+5iilNoD56jD3FJ3bM9tMP0,Arena y Sal,Omar Montes,63,2023-05-18,"flamenco urbano, urbano espanol",0.722,0.782,0.762,117.996,-5.963,174415,5,0
+2SOvWt6igzXViIjIiWNWEP,BABY HELLO,Rauw Alejandro,68,2023-06-23,"puerto rican pop, reggaeton, trap latino, urbano latino",0.773,0.892,0.842,130.007,-3.732,222462,1,0
+0wzC02iW7IaqAASCgDR2Qs,Ayúdame a Imaginar,Soto Asa,54,2022-01-14,urbano espanol,0.884,0.727,0.459,121.022,-5.063,265527,7,0
+4eMKD8MRroxCqugpsxCCNb,MOJABI GHOST,Tainy,9,2023-06-29,"pop reggaeton, reggaeton, trap latino, urbano latino",0.782,0.787,0.533,122.021,-2.533,232131,9,1
+7Dhvtb3KnYj2KaRKhdLhMS,Smartphone,Soto Asa,55,2020-12-18,urbano espanol,0.703,0.738,0.34,163.999,-5.549,179303,2,1
+2pjoPgjETrC1LQm64aVTGp,Si Tu Kiere,Soto Asa,50,2021-09-10,urbano espanol,0.732,0.51,0.566,196.229,-6.428,180992,1,0
+6peVAUzSxDlTigQw5T99O5,RÁPIDO,Mora,66,2023-04-27,"trap latino, urbano latino",0.846,0.552,0.396,105.004,-8.873,182857,5,1
+7ro0hRteUMfnOioTFI5TG1,WHERE SHE GOES,Bad Bunny,74,2023-05-18,"reggaeton, trap latino, urbano latino",0.652,0.8,0.234,143.978,-4.019,231704,9,0
+4piZ5m1vZGDkfyHga5U97m,Hookah,Bad Gyal,49,2019-07-19,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.872,0.579,0.483,103.973,-6.149,179893,0,1
+01HZSB91aIaVzTX57ddMit,Born Bad Gloosito,Glocksito,0,2023-01-31,,0.726,0.627,0.647,184.053,-11.48,145102,1,1
+6UR1k5NGqgNGzgVmMtT768,Cabaña,El Jordan 23,66,2023-06-24,"mambo chileno, urbano chileno",0.722,0.76,0.724,98.042,-5.462,178837,11,1
+4XeqABCbUqyznqTgB8Ckzj,METALLICA,Yung Beef,57,2021-04-15,"drill espanol, emo trap en espanol, neoperreo, spanish hip hop, urbano espanol",0.586,0.816,0.58,174.053,-4.492,228219,1,0
+0EhuGnOS6fTc5l5UNtDEH2,POLARIS - Remix,SAIKO,69,2023-06-08,"trap latino, urbano espanol, urbano latino",0.623,0.799,0.552,169.901,-4.152,288000,8,0
+1Hs1uUl8o2VtDp1DABFq0O,Los del Espacio,LIT killah,73,2023-06-01,"argentine hip hop, trap argentino, trap latino, trap triste, urbano latino",0.813,0.682,0.634,120.011,-3.598,338000,0,1
+1AW667mty3vPYS8niQFCYo,Tremendo Culón,Bad Gyal,49,2022-06-16,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.852,0.736,0.601,103.007,-5.996,137507,4,0
+4qFwyhTqOvuf26fBBTaHcv,Barras Warras,Mushkaa,42,2023-04-14,,0.668,0.877,0.626,99.995,-4.497,169000,9,0
+2cAlHsqGkTYqQEEZCrMrF0,Mortales,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.674,0.383,0.466,99.956,-14.072,175914,7,0
+3wm27SCXXbKtLVv1B6JLFN,Love,Hard GZ,59,2018-11-23,"rap politico, rap underground espanol, spanish hip hop",0.558,0.464,0.323,60.991,-8.75,188173,6,0
+0kMaQ5adP0mfhBQNLrpCSB,Otra cama,Hard GZ,0,2021-04-30,"rap politico, rap underground espanol, spanish hip hop",0.759,0.81,0.524,97.988,-8.471,205822,8,1
+0PrxSxo7Pe4M1CnZuVQ0US,Wifi,Arce,0,2018-10-09,"spanish hip hop, urbano espanol",0.74,0.729,0.624,119.96,-6.141,214000,11,0
+0rnZoY4wdBcLPHTAa8p8IK,Luzbel,Arce,57,2015-09-28,"spanish hip hop, urbano espanol",0.73,0.624,0.826,95.07,-7.678,245723,11,1
+64PxGKZHdt74IYes8x1qCd,Ven,Hard GZ,0,2021-07-09,"rap politico, rap underground espanol, spanish hip hop",0.649,0.393,0.365,80.043,-9.943,194160,4,1
+2g97Rz3SSMib7gEkOxYHVw,El Plan,Hard GZ,0,2022-06-23,"rap politico, rap underground espanol, spanish hip hop",0.71,0.838,0.378,122.94,-7.892,175122,9,0
+6rwYZI7sVX2fIdTmc27flL,Volver,Miranda,0,2020-12-03,"rap espanol, urbano espanol",0.652,0.677,0.451,100.02,-10.762,210600,1,1
+0EUkpZGuE39UYnNv7M1qYF,Lo Real,Hard GZ,0,2022-03-24,"rap politico, rap underground espanol, spanish hip hop",0.684,0.567,0.575,100.095,-10.766,206843,3,1
+6aTqtTc3XV1PVw3DTcfF5o,Shameless,Hard GZ,40,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.585,0.668,0.719,90.131,-7.865,204119,7,0
+1qHqelvmwCcaB1RrHdVBHu,Secretos,Hard GZ,26,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.563,0.706,0.683,180.271,-6.493,189500,4,0
+1Rt43oQxyrw9QF4nm1ZKDj,Lil GZ 1995,Hard GZ,25,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.607,0.731,0.359,145.034,-5.782,151723,11,1
+2LCjKx2RWoEip8VahAXJmg,Huella (feat. Pitizion),Arce,0,2019-05-17,"spanish hip hop, urbano espanol",0.771,0.681,0.587,146.116,-7.336,188219,0,1
+1JGx20syNuacsvv4BAIYcB,Ghetto,Arce,0,2019-05-17,"spanish hip hop, urbano espanol",0.752,0.682,0.449,80.089,-6.437,216000,0,0
+0YFU6GIKNkTBECroVe7XeV,Mi Ruina,Arce,47,2015-09-28,"spanish hip hop, urbano espanol",0.353,0.783,0.278,81.426,-6.829,210625,7,0
+39JlamO6oYz8nRIYCfq8Bl,Tinder,Arce,0,2020-06-12,"spanish hip hop, urbano espanol",0.721,0.795,0.947,178.066,-2.0,183371,10,0
+5DYzTwwxOWYgxzIoagyNSW,Eros,Arce,48,2015-09-28,"spanish hip hop, urbano espanol",0.423,0.766,0.68,74.074,-7.415,221428,11,0
+3qmb4KtuPaUIomYChtp4oz,Alcoholics,Arce,23,2015-09-28,"spanish hip hop, urbano espanol",0.45,0.797,0.618,176.696,-5.974,264518,1,1
+2sE4xCm9AzpUYE330Ztbcc,Amancio Ortega,Arce,0,2022-06-21,"spanish hip hop, urbano espanol",0.939,0.777,0.633,96.983,-4.975,178144,1,0
+3KjeCWIIkzEtdsDeAT1l6G,La Vida Que No Es Nuestra,Arce,0,2022-06-21,"spanish hip hop, urbano espanol",0.802,0.61,0.645,89.0,-5.996,135843,6,0
+2ltaLo0EDaRXblOeKPV0oI,SANGUE,Hard GZ,28,2023-11-16,"rap politico, rap underground espanol, spanish hip hop",0.61,0.603,0.277,89.922,-6.625,240667,3,0
+4eAD3LmuBMYvW3HCik19eZ,"Hoxe, mañá e sempre",Tanxugueiras,49,2023-12-29,galician folk,0.724,0.35,0.269,112.526,-8.329,178018,9,1
+2fL7mRj4pby4Yx1ExpgrDm,Terra,Tanxugueiras,38,2022-07-29,galician folk,0.566,0.692,0.175,69.963,-5.585,178965,2,1
+0KpAs1JtJgHySwjKXsMF1D,As que tiñan que estar,Tanxugueiras,40,2023-11-03,galician folk,0.736,0.522,0.242,114.919,-8.467,188016,7,0
+5lHxuMlwqCNR51aBIiJkFn,Averno,Tanxugueiras,34,2022-07-29,galician folk,0.764,0.824,0.827,140.007,-5.441,154324,2,1
+1A28o8VLH8z1WhDvpq72vo,Més fort,Tanxugueiras,17,2023-08-18,galician folk,0.783,0.81,0.398,118.024,-5.152,199674,0,1
+0nEWCRtKKjHWKvBEl1kxyl,"Ningún Nombre, Ningún Lugar",Xoel López,39,2015-05-26,"cantautor, spanish indie pop",0.695,0.695,0.84,119.96,-8.379,256680,4,1
+03qwQjinNGTUSRY9zlXILY,Morena,De Ninghures,32,2023-10-20,"galego, spanish folk",0.763,0.747,0.433,104.019,-5.521,216188,7,1
+5qP24CrDI0rmY5zwRvUfzU,AHORA QUÉ,Quevedo,67,2023-01-20,"rap canario, trap latino, urbano latino",0.447,0.765,0.542,101.545,-5.457,171429,2,0
+5q86iSKkBtOoNkdgEDY5WV,VISTA AL MAR,Quevedo,74,2023-01-20,"rap canario, trap latino, urbano latino",0.759,0.561,0.491,104.915,-5.643,180673,0,0
+0Sfn2TYbpQtCGMBf6C0Y6T,PLAYA DEL INGLÉS,Quevedo,74,2023-01-20,"rap canario, trap latino, urbano latino",0.793,0.736,0.656,112.993,-3.254,237525,7,0
+5yocaqYG38qpSSxV1t0o3D,DAME,Quevedo,65,2023-01-20,"rap canario, trap latino, urbano latino",0.742,0.508,0.31,98.017,-5.705,231429,4,1
+3TPTC8joOVNXHHNFIWPGBC,INTRO - SPEECH CRUZZI,Quevedo,47,2023-01-20,"rap canario, trap latino, urbano latino",0.514,0.366,0.708,77.16,-10.796,60857,5,1
+0FirgnvrpCkkhdaq64Gfen,YANKEE,Quevedo,61,2023-01-20,"rap canario, trap latino, urbano latino",0.544,0.747,0.476,123.647,-4.659,194400,6,1
+6gN4xor5X60aNKrvyjMBPU,CUÉNTALE,Quevedo,62,2023-01-20,"rap canario, trap latino, urbano latino",0.714,0.662,0.275,119.972,-6.626,198000,6,0
+24PUqZJcXUjByIybGftoHZ,LUCES AZULES,Quevedo,55,2023-01-20,"rap canario, trap latino, urbano latino",0.659,0.704,0.15,122.951,-5.85,160976,1,1
+4SMeOd5Fb7Rp92ODZTWCHV,MUÑECA,Quevedo,57,2023-01-20,"rap canario, trap latino, urbano latino",0.747,0.748,0.357,114.869,-4.047,210750,4,1
+4YBgxy0sK4ykesIYuLldxz,ME FALTA ALGO,Quevedo,59,2023-01-20,"rap canario, trap latino, urbano latino",0.456,0.588,0.45,176.139,-6.317,192497,6,1
+50naDXYjnGlLgrE7yUxsok,LISBOA,Quevedo,58,2023-01-20,"rap canario, trap latino, urbano latino",0.673,0.809,0.514,91.935,-3.426,151304,6,1
+3otxqaLl04PmaRD4zmOJeO,ÉRAMOS DOS,Quevedo,55,2023-01-20,"rap canario, trap latino, urbano latino",0.702,0.742,0.587,89.923,-3.894,174426,7,1
+7rJ1eWSl8VIoKW9Qj7ImSU,DONDE QUIERO ESTAR,Quevedo,59,2023-01-20,"rap canario, trap latino, urbano latino",0.638,0.732,0.0717,169.917,-4.87,200471,4,0
+4405vG8iIPoF2dUpX6AVDs,En Reformas,Quevedo,45,2020-08-18,"rap canario, trap latino, urbano latino",0.879,0.416,0.0396,102.018,-10.768,169851,4,0
+3bWRxb5rFHlmxo7mwDPNsO,Planteamiento Erróneo,Quevedo,49,2020-10-16,"rap canario, trap latino, urbano latino",0.797,0.524,0.473,87.987,-11.832,133004,0,0
+4aJzxp3gimtAdgJn3DL776,Mami Chula,JHAYCO,61,2023-04-28,"reggaeton, trap latino, urbano latino",0.796,0.701,0.325,119.986,-3.599,220600,7,0
+7q1KFoWUNYudhKW8RYJFsZ,Mi Nena Remix,Maikel Delacalle,57,2023-03-23,"rap canario, trap latino, urbano espanol",0.767,0.701,0.675,125.948,-5.458,220000,11,0
+4QpoPO2Z9xqESwEsfTjaLj,PERO TÚ,KAROL G,58,2023-02-23,"reggaeton, reggaeton colombiano, urbano latino",0.867,0.782,0.685,139.893,-4.562,183907,6,1
+2t6IxTASaSFkZEt61tQ6W6,PLAYA DEL INGLÉS,Quevedo,60,2022-12-15,"rap canario, trap latino, urbano latino",0.793,0.736,0.656,112.993,-3.254,237525,7,0
+6WU2eYUtOL91iROonROPyh,Real G,Bad Gyal,52,2022-12-02,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.662,0.828,0.451,113.039,-5.854,191693,9,1
+4Rjq1TZbF0bDstOs6SiI6J,LACONE,Polimá Westcoast,63,2022-11-25,"trap chileno, trap triste, urbano chileno",0.798,0.718,0.727,126.01,-6.237,260952,8,0
+2GVahxIzxivfRZc8lR39Ms,FERNET,Rei,59,2022-06-01,trap argentino,0.71,0.738,0.608,98.958,-4.077,192668,6,0
+7ILwxghUppFKHnAJ5ziB8X,Yatekomo,Juseph,42,2022-05-13,,0.849,0.647,0.576,89.988,-6.935,213354,10,1
+6bQ5823aHmFVKLZW8E7rRo,Si Quieren Frontear,Duki,60,2022-03-31,"argentine hip hop, trap argentino, trap latino, trap triste, urbano latino",0.789,0.837,0.476,81.536,-3.247,200337,10,1
+2Ykd9H7gmnTTfWAuFdlLRW,Jordan I,SAIKO,54,2022-03-21,"trap latino, urbano espanol, urbano latino",0.695,0.613,0.31,97.958,-7.093,192185,5,1
+7ANJlQ67bYtNz0rNUFL0E2,Nonstop,Quevedo,57,2022-03-04,"rap canario, trap latino, urbano latino",0.733,0.578,0.293,139.045,-8.175,229658,9,1
+07piZvs54drv7466oPLTt0,Respuesta Cero,Quevedo,59,2022-02-05,"rap canario, trap latino, urbano latino",0.625,0.523,0.657,169.933,-7.079,203952,7,1
+0Bv7O6fmZk3GrNQFYJaXPn,"Cayó La Noche (feat. Cruz Cafuné, Abhir Hathi, Bejo, EL IMA) [Remix]",La Pantera,64,2022-01-14,rap canario,0.672,0.745,0.739,173.974,-5.269,413111,5,0
+6dtt4yvSQs7gH5P3qQaK3N,GRIS,Quevedo,56,2020-10-19,"rap canario, trap latino, urbano latino",0.749,0.348,0.693,179.865,-12.718,187803,4,0
+15wMJJiVpt2ABQw032Rywi,No Me digas Nada,Quevedo,58,2020-11-09,"rap canario, trap latino, urbano latino",0.49,0.692,0.484,102.16,-4.291,148386,7,1
+3hizTOSrkSJOpHGSXrE1Ue,Llegamos,Quevedo,50,2020-12-11,"rap canario, trap latino, urbano latino",0.517,0.657,0.674,86.628,-5.358,169524,8,1
+00UXKSQGXdWD5hBFqsHvEf,Desastre,Quevedo,41,2021-02-01,"rap canario, trap latino, urbano latino",0.704,0.77,0.455,142.898,-2.894,162802,10,1
+3zBFhQssH2rOXxHsThJv3O,Cógelo Suave,Quevedo,46,2021-02-16,"rap canario, trap latino, urbano latino",0.71,0.578,0.559,88.229,-8.389,226364,8,1
+4Y2qCrHtrbl3dEPGFWCHvK,No me olvido,Quevedo,53,2021-02-20,"rap canario, trap latino, urbano latino",0.571,0.609,0.84,170.125,-5.588,197048,10,0
+3R3RqzsBuyvaNBFaLCDS4l,Ya No Sé,Quevedo,44,2021-04-23,"rap canario, trap latino, urbano latino",0.764,0.275,0.246,130.064,-14.48,206957,4,0
+3durq4YUSFRaeoodpfHBmJ,Universitaria,Quevedo,57,2021-05-15,"rap canario, trap latino, urbano latino",0.658,0.679,0.723,90.011,-8.341,133022,10,0
+2jeDtqfRAGJb9McjwfXN9I,Cayó La Noche,La Pantera,49,2021-06-26,rap canario,0.768,0.706,0.826,173.951,-6.487,215172,5,0
+60zdEgLQUEYIBAF7BPXSB8,Noria,Quevedo,50,2021-07-17,"rap canario, trap latino, urbano latino",0.557,0.543,0.495,90.23,-7.437,173972,9,0
+5YOObwV9DaFoK8Z85LZbY0,Estás Con Él,Quevedo,56,2021-12-31,"rap canario, trap latino, urbano latino",0.794,0.571,0.92,127.84,-8.283,210034,11,1
+4iaNmAvcZ6sPGvgZ6vQQdx,Ahora y Siempre,Quevedo,68,2021-12-11,"rap canario, trap latino, urbano latino",0.659,0.629,0.416,118.964,-7.86,149275,4,1
+2mgz8ME636F6lYDYDxIz9q,NANA,Quevedo,53,2021-11-06,"rap canario, trap latino, urbano latino",0.84,0.457,0.343,128.024,-9.535,157505,11,0
+1pdK71OIQBAEHHSZ3pUggO,Rimmel,Quevedo,54,2021-10-09,"rap canario, trap latino, urbano latino",0.666,0.63,0.702,104.98,-8.054,180577,0,1
+0ZCLgrZWfSS2FVSCJNcsdY,Me Fui en un Viaje,Mdmoney,0,2021-09-23,"rap canario, urbano espanol",0.73,0.715,0.622,94.009,-6.369,209362,0,1
+4WKXvSFylyPR8uKPcqLxKu,La nena,Juseph,32,2021-08-21,,0.54,0.675,0.871,180.226,-8.068,205340,0,1
+04d4GpLedinwpfctvgOIhY,Piel de Cordero,Quevedo,65,2021-08-07,"rap canario, trap latino, urbano latino",0.827,0.541,0.256,128.028,-10.743,213647,11,0
+5AZ4qojJFazqCoxSaBlR7L,Luna,Quevedo,46,2020-10-16,"rap canario, trap latino, urbano latino",0.812,0.32,0.212,122.968,-13.44,168538,4,0
+1OzXgYzPRco0NvqcDEnCRG,Barquito de Vela,Hard GZ,0,2022-05-06,"rap politico, rap underground espanol, spanish hip hop",0.629,0.777,0.842,90.02,-4.66,220406,1,0
+3ymvO0YgR0TPrpf27DWOHR,Hard Gz 24/Siempre,El Triangulo Estudio,24,2022-11-06,"argentine hip hop, rap underground argentino",0.624,0.446,0.535,94.691,-11.866,211441,1,1
+1kjHo0Wfv6yZsmMw73l3ct,Qué Más Da,Nikone,0,2022-03-24,"spanish hip hop, urbano espanol",0.69,0.454,0.406,95.014,-9.402,268994,0,1
+5AbGYZv6CWXGV02MMjxW1i,Tiempo,Nikone,0,2022-03-24,"spanish hip hop, urbano espanol",0.641,0.753,0.794,90.136,-9.346,152667,5,0
+3k8Ue3XEnGxSRLy2TvPuza,Silencio,Nikone,0,2022-03-24,"spanish hip hop, urbano espanol",0.696,0.75,0.86,95.006,-9.977,186538,7,0
+5TSMPzUrTu8rYgVz2X3LR9,Puñales,Nikone,0,2022-03-24,"spanish hip hop, urbano espanol",0.582,0.775,0.49,93.028,-8.458,210323,5,1
+1cbSMm6YY0PYeruM6jBTY8,6 AM,Nikone,0,2022-03-24,"spanish hip hop, urbano espanol",0.803,0.674,0.682,95.523,-7.292,202580,3,0
+1k2LX4puSY4WvKO8LPinMt,Horizonte,Nikone,0,2022-03-24,"spanish hip hop, urbano espanol",0.795,0.561,0.121,120.025,-8.286,211250,5,1
+6U6EEHXJhROrDdwGkxYexV,Pelapavas,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.721,0.685,0.649,92.985,-7.953,227312,1,1
+72EdgkBSzwr2GG9ikCbl43,Cambios,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.635,0.673,0.331,104.564,-9.492,271186,10,1
+0ZILCsatcviH48hRl8Bj6o,Flores,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.786,0.787,0.761,89.48,-7.669,153414,10,1
+7hvmbqGlRedq7M2nJPcOUa,Dime Cuánto,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.652,0.632,0.437,88.453,-9.988,268237,2,0
+1KtF2SAZWRSv1VMUUDzx4J,Como Messi,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.49,0.629,0.747,180.176,-8.565,218083,7,1
+1uNBoQbV1EW8F478h8j0NZ,Chin Chin,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.748,0.778,0.466,103.735,-10.277,154552,4,0
+1q7uN7CaoKhAmIGeoD7e1w,Castillo de Arena,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.694,0.863,0.403,94.996,-5.685,178000,4,0
+1IU76SkQhEZC4kOmgEQZuK,Entre las Luces,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.422,0.701,0.492,127.464,-5.468,232000,9,0
+6j0nq0Gz8dGoKm1pZ0IF6d,Más Alto,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.532,0.556,0.514,190.153,-10.136,216460,1,0
+3zOlEKfVuHOZTDub5wZvLT,El camino,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.636,0.737,0.685,91.483,-5.99,289042,9,0
+03foi10s5PrMLI5UwKn0u5,Barras en la Cantera,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.686,0.705,0.588,93.171,-8.384,162742,9,0
+3IGZhYfGNCldDy2dkh5MMm,El Vaso de Olvidar,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.818,0.445,0.293,94.943,-11.289,164736,2,0
+6hqTUrO1VnynCsX4AKkZQZ,Nautilus,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.448,0.821,0.718,66.057,-7.438,187617,0,1
+3WeHqPYQIAXbfOilb42xKm,Flame Skit,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.804,0.285,0.314,117.987,-12.825,88740,6,1
+7D6XJOAQbtO1PBf65MmA7V,La Llave,Hard GZ,0,2020-04-17,"rap politico, rap underground espanol, spanish hip hop",0.4,0.569,0.314,73.637,-9.29,173160,2,0
+7wM76ZyjyLfk62XLrUMzeG,Bored Hero,Lil GZ,31,2020-10-23,rap espanol,0.637,0.619,0.336,158.103,-5.176,213038,2,0
+3S9jfKTlQNcZY0jZ6JX3C9,Marinera,Lil GZ,48,2020-10-23,rap espanol,0.72,0.81,0.534,105.031,-4.022,176000,8,0
+6OpuF1IRGyX6ed0eEYBKom,El Sol,Lil GZ,42,2020-10-23,rap espanol,0.765,0.472,0.823,81.003,-12.237,180605,1,0
+6NwZM02FwWwoEyr7E7n0NZ,Hazme Ese Favor,Lil GZ,25,2020-10-23,rap espanol,0.78,0.582,0.255,124.952,-6.964,205920,8,0
+7ATzGKYMhcMFS4A6u3zSNR,Tokyo,Lil GZ,22,2020-10-23,rap espanol,0.784,0.585,0.639,142.015,-4.638,153750,10,0
+4UvRxH6J6RcLAq3nXEdAGB,Serpientes,Lil GZ,25,2020-10-23,rap espanol,0.619,0.643,0.29,125.014,-5.196,256620,9,0
+6No2T81Yvpe7yDAlBMYLDa,DOPE,Lil GZ,20,2020-10-23,rap espanol,0.742,0.695,0.754,130.035,-7.444,152416,2,1
+55nvFPmu9hNvbztG7eFu5t,Carl Sagan,Lil GZ,18,2020-10-23,rap espanol,0.671,0.68,0.389,130.102,-6.334,201076,0,1
+0n53J7XrcGJqXCSDR2T9q4,Rolas,Hard GZ,48,2018-11-23,"rap politico, rap underground espanol, spanish hip hop",0.868,0.686,0.825,91.517,-8.924,189256,10,0
+2auaKRSr0MbHAQNC0RruwO,Dinero,Hard GZ,36,2018-11-23,"rap politico, rap underground espanol, spanish hip hop",0.733,0.567,0.695,124.48,-8.597,156561,6,0
+5qSz7VnDbNypSdHRVvtkPr,Espantapájaros,Hard GZ,38,2018-11-23,"rap politico, rap underground espanol, spanish hip hop",0.693,0.557,0.461,93.089,-9.984,190926,1,1
+05wpkR7tKrcso4Sb3xNB2r,Estorbando,Hard GZ,26,2018-11-23,"rap politico, rap underground espanol, spanish hip hop",0.686,0.834,0.819,95.79,-5.413,168204,10,1
+6U4wdeB0dIWNe9qgY5nS37,Weah,Hard GZ,38,2018-11-23,"rap politico, rap underground espanol, spanish hip hop",0.565,0.505,0.313,96.857,-11.309,202942,6,0
+5S3Y12ouNYbYLHbHJ5PnB8,Escuela,Hard GZ,35,2018-11-23,"rap politico, rap underground espanol, spanish hip hop",0.634,0.591,0.791,125.472,-7.646,209537,5,0
+2Q6wC78LVUfC6amo5ru7gE,Atrapado Aquí,Hard GZ,28,2018-11-23,"rap politico, rap underground espanol, spanish hip hop",0.484,0.662,0.605,85.815,-9.013,228299,5,1
+3Dtr35IhxPsDfECZ5vuREk,Guerra,Hard GZ,22,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.649,0.591,0.816,176.023,-10.923,212509,6,0
+6F8AaNloqVJwCgIVijHIUd,Extrayendo del Extracto,Hard GZ,27,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.724,0.925,0.59,92.952,-4.58,171473,0,1
+0Aad4lqazACXNDxmRsxnOn,Afrohard,Hard GZ,32,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.619,0.901,0.77,104.302,-5.411,195027,2,1
+0ZrDom12tnntosy9CLL1RK,"Birra, Humo y Reflexiones",Hard GZ,41,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.673,0.857,0.81,92.107,-7.271,221224,1,1
+4xBKcbhssZPlaMsBA1snUn,Experimento,Hard GZ,38,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.765,0.913,0.703,114.947,-6.697,206400,2,1
+7AR8XzaAJYtTlHAjXcBFON,Piratas,Hard GZ,25,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.462,0.915,0.469,153.307,-6.485,180405,1,0
+1uHanZ844aIuCAlXWQcv7i,Hereditario,Hard GZ,28,2018-07-27,"rap politico, rap underground espanol, spanish hip hop",0.805,0.838,0.744,89.839,-4.069,208051,5,1
+6AGm6W18BNrmq9uWSIIai1,Tiempos,Dirty Suc,45,2022-10-11,,0.677,0.735,0.716,94.047,-6.367,200622,0,0
+1RgJNCAsftlbzZMkQdIXoG,Pan Duro,Hard GZ,0,2022-06-02,"rap politico, rap underground espanol, spanish hip hop",0.798,0.476,0.642,92.015,-7.976,157826,5,1
+1gnaaJFWj55wRDSh5xJHyy,Chove,Hard GZ,0,2022-04-22,"rap politico, rap underground espanol, spanish hip hop",0.724,0.486,0.714,90.069,-9.224,182000,5,0
+37ivCSrHCkGuyyQd1VgvcY,Blaquinazo,Rebeliom do Inframundo,0,2022-03-15,rap galego,0.695,0.837,0.458,92.129,-4.538,232025,2,1
+4Huf56u4fIIcQwZb9RSe4A,Silencio,Nikone,0,2022-03-10,"spanish hip hop, urbano espanol",0.696,0.75,0.86,95.006,-9.977,186538,7,0
+2B4zfsOe4F1FhQRNx7dBzJ,Vivimos Deprisa,Sofía Gabanna,39,2021-09-16,rap underground espanol,0.738,0.706,0.684,87.964,-7.334,207273,2,1
+4fWEe6avmUORESaJNM4WkT,Imperium,Hard GZ,0,2021-07-09,"rap politico, rap underground espanol, spanish hip hop",0.687,0.727,0.721,92.962,-7.554,218662,6,1
+6nURGW5GnMN0W1dwWz6Kkw,Tai - Remix,Lupita's Friends,18,2021-02-25,rap espanol,0.673,0.716,0.733,176.854,-8.446,176100,8,1
+7JF6Y4YmLgC8BXs6locWRA,Parar,Hard GZ,0,2021-02-19,"rap politico, rap underground espanol, spanish hip hop",0.563,0.512,0.609,138.901,-11.241,184930,1,1
+6RyuoOJXNzlVWpfC5xQyeI,Alocao (With Bad Gyal),Omar Montes,58,2019-10-24,"flamenco urbano, urbano espanol",0.673,0.752,0.699,178.005,-4.705,209320,11,0
+4ZjtBYFciJkcj3K741Ij1d,Aprendiendo El Sexo,Bad Gyal,47,2020-07-31,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.794,0.807,0.354,98.041,-4.236,147440,4,0
+53vCCDv42MGxUmgWUbuhuP,Mercadona (Prod. Fakeguido),Bad Gyal,52,2016-11-11,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.544,0.424,0.92,118.937,-7.883,203000,7,1
+0k5kd8IQULAW4hJBwndWs5,Jacaranda,Bad Gyal,50,2017-05-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.519,0.689,0.515,98.412,-3.353,184800,10,1
+0DbGnMSAX2URJFhRVi8Sng,Mas Raro - Prod. Cadenza,Bad Gyal,51,2018-07-27,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.67,0.652,0.545,93.589,-7.994,165957,0,1
+7AkGPjtb6YmEQLzYVjBHmC,Candela - Prod. Dubbel Dutch,Bad Gyal,45,2018-02-21,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.699,0.817,0.476,99.926,-4.996,196754,0,0
+04LT2LwW5cMrIuq4Kvn1rM,Despacio (Prod. AC3),Bad Gyal,47,2016-11-11,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.608,0.314,0.232,180.025,-15.461,159973,0,1
+7Ib4HxrkMe8iHweXxMsev5,Open The Door,Bad Gyal,43,2018-11-02,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.735,0.846,0.478,99.938,-4.843,223600,8,1
+7tcMCTr0GjE5ZagYDQADE6,Unknown Feeling - Prod. Fakeguido,Bad Gyal,33,2018-12-28,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.766,0.439,0.496,100.046,-9.963,223206,0,1
+0s0Ots3V2FtJs90JjA9SVq,Turn Me On (Prod. Faberoa),Bad Gyal,48,2016-11-11,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.673,0.6,0.409,86.926,-8.193,177000,6,0
+31E9oJvrVjB1iaf3HsdsGc,Smthin Like This (Prod. Plata),Bad Gyal,37,2016-11-11,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.722,0.693,0.679,137.956,-8.225,209000,9,1
+3opJjMxkAA5KX8CPF2vzo5,Tu Moto - Prod. D33J,Bad Gyal,38,2018-02-21,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.733,0.671,0.197,95.01,-6.44,195257,8,0
+0haDTLHPo1R0zy9Q0VadDe,Por Ti,Florentino,31,2018-03-23,"latin tek, neoperreo",0.687,0.794,0.258,93.971,-5.353,241301,4,0
+25RN6owXD29BH7fu2vlz3q,Yo Sigo Iual - Prod. Fakeguido & el Guincho,Bad Gyal,46,2018-02-21,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.856,0.482,0.513,108.034,-7.876,189243,9,0
+06gx5uBszhnjK3NzhSY5xC,Dinero (Prod. Fakeguido),Bad Gyal,39,2016-11-11,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.534,0.936,0.631,171.921,-7.083,238000,7,1
+2xy6F8DGt6Yqq74HAx5WHB,Nicest Cocky,Bad Gyal,29,2017-06-16,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.582,0.706,0.407,74.991,-7.508,249600,2,0
+3PLcsZsfC1jt2E1zsKIE8A,Internationally - Prod. Jam City & Dubbel Dutch,Bad Gyal,42,2018-02-21,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.805,0.538,0.678,105.029,-5.852,194391,2,1
+0VfPpXQUmi1i6mUOac5VLi,D Way You Do Me (Prod. Plata),Bad Gyal,36,2016-11-11,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.479,0.939,0.0592,140.941,-4.871,290000,6,0
+2I0kmY3t6qPQFJbp6EdGg7,Realize - Prod. Paul Marmota & Fakeguido,Bad Gyal,33,2018-02-21,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.534,0.501,0.493,126.429,-8.335,238148,9,0
+4WozolbecyvEysgxoAOgKX,Tra - Prod. Dubbel Dutch,Bad Gyal,42,2018-02-21,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.724,0.83,0.44,97.046,-6.063,225629,10,1
+30t9smohiwcsWePn1V18Ce,Zorra - Remix,Bad Gyal,48,2021-01-21,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.499,0.762,0.512,76.995,-4.489,216533,11,1
+0NipDzamAtvro0HMcZD5DK,44,Bad Gyal,52,2021-03-18,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.801,0.76,0.508,102.061,-5.948,185467,5,1
+5KBWOjaGZvd17qijS6geEZ,Gasto,Bad Gyal,45,2021-03-18,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.842,0.747,0.543,100.027,-6.022,128080,5,0
+3zNzqaks2XEqP8ZnXIfjzH,Iconic,Bad Gyal,44,2021-03-18,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.93,0.493,0.505,106.051,-8.034,134507,0,1
+0nfFdjswV0F5XGehivzBCW,Judas,Bad Gyal,42,2021-03-18,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.76,0.694,0.717,94.957,-6.045,145973,1,1
+6yAMdceZ8VGWD6kTPCkZ26,"Trust - Prod. Faberoa, Fakeguido & el Guincho",Bad Gyal,36,2018-02-21,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.782,0.638,0.181,97.004,-7.122,223918,6,1
+2ejYdJuOtzKnogrqq2eIxS,Commotion,LOWLIGHT,40,2017-09-22,urbano espanol,0.659,0.656,0.853,106.011,-6.983,221205,7,0
+7aZ30GAOJ2nYrpnsknNNbg,Pussy,Bad Gyal,39,2021-03-18,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.701,0.67,0.569,93.889,-6.453,137253,11,0
+2WPFpC4oQxjBpSgsCoQrCf,Su Payita (Gramos),Bad Gyal,57,2021-12-02,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.643,0.785,0.217,191.898,-3.95,140587,2,1
+0kaF3YZZ4cQBUsIHitNnbj,Slim Thick,Bad Gyal,48,2021-12-09,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.696,0.763,0.809,91.115,-4.146,144013,5,0
+79vRgeWcbeXb4EHIgmKexS,Candela,Bad Gyal,30,2018-03-20,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.699,0.817,0.476,99.926,-4.996,196754,0,0
+4wZEg3KkldA8QywnPVHJFa,Blink,Bad Gyal,28,2018-02-02,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.742,0.907,0.487,93.994,-3.01,270507,8,1
+4EwlvJmJjG3FkOPUbhQ3wR,Kiyaera,Soto Asa,46,2020-12-18,urbano espanol,0.757,0.767,0.707,184.018,-3.978,168472,1,1
+3szqC0lxrJdhn3eW6FfFfo,Chulo,Bad Gyal,59,2023-02-10,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.836,0.8,0.543,97.054,-2.822,120413,5,0
+2nUFovoAPOXcpqVu2BsAhJ,Bom Bom,Kafu Banton,41,2020-05-15,panamanian pop,0.882,0.766,0.532,97.009,-5.1,203707,1,1
+5YfGs3ieDe7tYnI0yOajp9,SexeSexy,Mushkaa,51,2024-03-28,,0.727,0.784,0.418,100.053,-5.555,232800,1,1
+30hti8rsvWYTcrHAPRAlHi,Mi Lova,Bad Gyal,52,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.745,0.825,0.676,94.065,-3.821,219773,8,1
+3vy66ZlrCcrCR74ix1E5vb,Give Me,Bad Gyal,49,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.846,0.785,0.426,105.01,-4.516,165587,4,0
+5HnWWoY9gAIOxL2CMq5Sz1,Bota Niña,Bad Gyal,52,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.684,0.885,0.654,173.846,-2.882,209693,0,1
+0uWPaGuYNufHxNgqummf9T,La Que No Se Mueva,Bad Gyal,51,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.719,0.706,0.685,88.161,-3.818,207173,6,1
+1bmIRafMOhUKsnZE7haw2u,Perdió Este Culo,Bad Gyal,64,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.621,0.859,0.445,92.929,-3.228,159253,2,1
+6CvtLD7pB6PhWVEafimIQf,Sin Carné,Bad Gyal,49,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.831,0.686,0.621,95.995,-4.818,117280,6,0
+2fgogq2XXlKMm9p6m3akHH,Bad Boy,Bad Gyal,55,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.793,0.883,0.728,172.02,-2.631,205707,11,0
+4T91Eu9HEFOmE9Tkv67nLT,Skit,Bad Gyal,52,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.865,0.805,0.903,117.923,-4.408,92493,11,1
+1NCF4UUsuT6Xzw2Zxd43PJ,Chulo pt.2,Bad Gyal,69,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.849,0.885,0.522,96.971,-2.447,218933,3,0
+5CH9n4wm1haCpd65zA9VPw,Así Soy,Bad Gyal,49,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.825,0.671,0.518,104.957,-6.603,194680,11,1
+4y3pBBARAmYDi1GCwO0o41,Sexy,Bad Gyal,47,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.789,0.679,0.769,126.996,-9.262,159187,10,0
+3lt11YYMKgELxR0aTxSLnO,Pop Pop,Bad Gyal,44,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.691,0.926,0.652,188.11,-5.164,133733,2,0
+6E5iXFRORBnSpVtN4DHYBj,Otra Vez Más,Bad Gyal,57,2024-01-26,"neoperreo, rap catala, rap latina, trap catala, urbano espanol, urbano latino",0.73,0.746,0.365,96.976,-5.156,153107,11,0
+1S3SAFqLBWk3HaR5UyXp43,Guay,Ozuna,69,2024-04-18,"puerto rican pop, reggaeton, trap latino, urbano latino",0.88,0.766,0.594,96.037,-2.906,210788,1,0
+6GgpoeDugrrXl06NIsE1Bo,GHETTO PRINCESS,Ovy On The Drums,47,2023-10-05,"colombian pop, reggaeton, reggaeton colombiano, trap latino, urbano latino",0.783,0.758,0.943,174.029,-2.74,161379,10,1
+31ujNhkOr1z6kfv7B1MhHo,Tra,Soto Asa,44,2018-10-05,urbano espanol,0.77,0.729,0.59,169.934,-6.429,171169,1,1
+0glj70T9fN3kyJzYmTKzy1,Duro De Verdad pt.2,Los Sufridos,76,2024-09-12,,0.74,0.738,0.908,158.026,-6.495,204304,4,0
+3BvR83k9fPwDZUBwFxBPpu,2AM,Sebastian Yatra,62,2024-11-22,"colombian pop, latin pop, reggaeton, reggaeton colombiano, urbano latino",0.73,0.745,0.717,111.999,-5.127,196427,1,0
+3CIyK1V4JEJkg02E4EJnDl,Enemy (with JID) - from the series Arcane League of Legends,Imagine Dragons,80,2022-07-01,"modern rock, pop, rock",0.728,0.783,0.555,77.011,-4.424,173381,11,0
+1zB4vmk8tFRmM9UULNzbLB,Thunder,Imagine Dragons,84,2017-06-23,"modern rock, pop, rock",0.604,0.822,0.288,167.997,-4.833,187147,0,1
+2ThaHV10xrAcL2WfqXyLnp,Symphony,Imagine Dragons,62,2022-07-01,"modern rock, pop, rock",0.662,0.64,0.921,90.002,-5.223,175833,7,1
+2czjUxrgctplH7SDrJLGGb,Bones - twocolors Remix,Imagine Dragons,45,2022-10-25,"modern rock, pop, rock",0.682,0.761,0.498,123.988,-6.661,256092,8,1
+4C20SN2nzLbsZbS6A4idoA,Love Of Mine - Night Visions Demo,Imagine Dragons,44,2022-09-02,"modern rock, pop, rock",0.446,0.829,0.207,75.01,-6.665,249996,0,1
+4n1NdHdorunkuC2nQJX6ld,Bubble - Night Visions Demo,Imagine Dragons,39,2022-09-09,"modern rock, pop, rock",0.639,0.864,0.737,114.928,-6.395,202699,8,1
+7sA2SKTo1QbTSSYn5YvJC4,Sharks,Imagine Dragons,72,2022-07-01,"modern rock, pop, rock",0.927,0.642,0.901,123.969,-4.466,190883,10,0
+3soSAbnGLuJeARGmegvMFJ,I Don't Like Myself,Imagine Dragons,54,2022-07-01,"modern rock, pop, rock",0.574,0.71,0.6,172.88,-4.84,185496,11,0
+5i6V88QD3nt9at4915JISY,Blur,Imagine Dragons,49,2022-07-01,"modern rock, pop, rock",0.684,0.785,0.639,129.988,-3.219,175663,2,1
+66N0XT7yr2VuFxrMc8piUy,Higher Ground,Imagine Dragons,52,2022-07-01,"modern rock, pop, rock",0.694,0.657,0.61,122.208,-6.278,161843,5,0
+6rBsmp96jxTRpFqQEfxAdY,Crushed,Imagine Dragons,48,2022-07-01,"modern rock, pop, rock",0.624,0.734,0.219,116.949,-4.876,188942,7,0
+6Y2Iom5hrfZyhBRGqcrJdc,Take It Easy,Imagine Dragons,46,2022-07-01,"modern rock, pop, rock",0.391,0.65,0.296,171.859,-4.974,158270,5,0
+0YbFEoJi7Esa7lhIrEpBjl,Waves,Imagine Dragons,61,2022-07-01,"modern rock, pop, rock",0.468,0.618,0.261,120.123,-6.353,225431,9,1
+0z2bufPrU83RRPRaboj3B7,I'm Happy,Imagine Dragons,47,2022-07-01,"modern rock, pop, rock",0.678,0.576,0.364,106.041,-4.767,185219,2,1
+1qaWM3wK6aZZALpAPVdZ6D,Ferris Wheel,Imagine Dragons,46,2022-07-01,"modern rock, pop, rock",0.392,0.355,0.208,118.451,-8.316,203876,0,1
+3bwvtkLyVe7YWrKRlViloR,Peace Of Mind,Imagine Dragons,47,2022-07-01,"modern rock, pop, rock",0.61,0.626,0.606,73.536,-4.784,173929,0,1
+3IkEM7cjZ8FZtmVFq1q03c,Sirens,Imagine Dragons,52,2022-07-01,"modern rock, pop, rock",0.67,0.671,0.363,98.965,-6.488,155312,11,0
+35CZvVV7UzYgydaVpNW4Kp,Tied,Imagine Dragons,46,2022-07-01,"modern rock, pop, rock",0.427,0.298,0.117,110.599,-8.344,241806,0,1
+3BprrMTQ3IlFvHW8oFTTQ1,Younger,Imagine Dragons,48,2022-07-01,"modern rock, pop, rock",0.661,0.562,0.512,111.03,-8.114,191937,0,1
+1X9hG9ChkrwhViamDCZTy9,I Wish,Imagine Dragons,45,2022-07-01,"modern rock, pop, rock",0.224,0.291,0.146,71.948,-9.109,207300,7,1
+2EhE42VQTKvn6ok6wtA9U8,Continual (feat. Cory Henry),Imagine Dragons,43,2022-07-01,"modern rock, pop, rock",0.519,0.289,0.12,110.851,-7.366,229508,0,1
+7KGwRAF99Ryell3B2T4DKy,They Don't Know You Like I Do,Imagine Dragons,46,2022-07-01,"modern rock, pop, rock",0.356,0.167,0.164,149.675,-9.355,257875,9,1
+73NbHgUZ51H65Bfo2HFKUi,Whatever It Takes,Imagine Dragons,1,2017-06-23,"modern rock, pop, rock",0.675,0.662,0.536,134.936,-4.989,201240,1,1
+1NtIMM4N0cFa1dNzN15chl,Believer,Imagine Dragons,4,2017-06-23,"modern rock, pop, rock",0.772,0.78,0.719,124.988,-4.288,204347,10,0
+4G8gkOterJn0Ywt6uhqbhp,Radioactive,Imagine Dragons,71,2012-09-04,"modern rock, pop, rock",0.448,0.784,0.237,136.239,-3.686,186813,9,1
+5VnDkUNyX6u5Sk0yZiP8XB,Thunder,Imagine Dragons,2,2017-06-23,"modern rock, pop, rock",0.604,0.826,0.241,167.985,-4.804,187147,0,1
+6KuHjfXHkfnIjdmcIvt9r0,On Top Of The World,Imagine Dragons,67,2012-09-04,"modern rock, pop, rock",0.635,0.926,0.771,100.043,-5.589,189840,0,1
+6BtmXhTJMM9sBTHeYYASGz,It's Time,Imagine Dragons,64,2012-09-04,"modern rock, pop, rock",0.656,0.884,0.858,105.009,-4.748,237987,2,1
+3LlAyCYU26dvFZBDUIMb7a,Demons,Imagine Dragons,72,2012-09-04,"modern rock, pop, rock",0.5,0.71,0.419,89.929,-3.015,175200,3,1
+4xzZikEt8mwemVk9JxnqSQ,Yesterday,Imagine Dragons,0,2017-06-23,"modern rock, pop, rock",0.559,0.641,0.577,156.038,-6.118,205114,4,1
+5UlnuulVAVmmesw4VzqHdG,Enemy - From the series Arcane League of Legends,Imagine Dragons,70,2021-10-27,"modern rock, pop, rock",0.722,0.745,0.52,77.029,-4.164,173381,7,1
+6tvDAC8atHIjyLgvOEK1fK,Monday,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.803,0.649,0.797,90.006,-5.842,187896,6,1
+5QLhl7uDuDypn7kN34RFPj,Dull Knives,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.51,0.616,0.32,110.346,-6.997,213482,6,1
+3mk4p8cBDd9bzTgooRrFoG,Lonely,Imagine Dragons,1,2021-09-03,"modern rock, pop, rock",0.714,0.73,0.873,97.983,-5.564,159851,0,1
+6xSIsFET1hxpaYFQuHux4P,My Life,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.525,0.427,0.305,129.982,-7.282,224512,4,1
+149BxWeweaCqmsyedkNiiE,Wrecked,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.625,0.562,0.229,93.998,-5.828,244005,0,0
+6z39NC4VSSweBHFg9kAoja,#1,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.692,0.695,0.634,92.98,-4.448,205041,1,1
+3wWXNV94Ys2vQcFxgnWkut,Easy Come Easy Go,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.673,0.459,0.477,139.817,-7.274,179872,3,0
+7FNq9WjxUTIx6OCSPzzopE,Giants,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.487,0.603,0.44,62.385,-7.96,210402,11,0
+1BhkCNB6yE8OPdOnazI3O5,It's Ok,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.502,0.322,0.168,185.655,-7.59,202498,0,1
+375kzpRydDdOxOSCGMK53b,Follow You,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.544,0.732,0.45,124.875,-5.984,175644,9,1
+4XhseSDGzoj15T6sWy97L9,Cutthroat,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.668,0.626,0.679,165.926,-5.278,169741,7,1
+591rVlNAjjUyA44aq6PzTH,No Time For Toxic People,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.584,0.742,0.585,75.986,-5.201,207870,0,1
+7MzYWwzeBKEQ2rRGUQmdES,One Day,Imagine Dragons,0,2021-09-03,"modern rock, pop, rock",0.68,0.414,0.639,89.945,-7.955,151337,4,0
+2FY7b99s15jUprqC0M5NCT,Natural,Imagine Dragons,79,2018-11-09,"modern rock, pop, rock",0.704,0.611,0.22,99.994,-6.112,189467,2,1
+2RSHsoi04658QL5xgQVov3,Bad Liar,Imagine Dragons,78,2018-11-09,"modern rock, pop, rock",0.307,0.637,0.0805,88.693,-6.993,260773,3,1
+2uZVfvOK7MTjBTRICYmpso,Birds (feat. Elisa),Imagine Dragons,54,2019-06-20,"modern rock, pop, rock",0.627,0.527,0.293,119.995,-7.012,219435,1,0
+4uGY9CqDtGtaTTLg1cgsWD,Machine,Imagine Dragons,61,2018-11-09,"modern rock, pop, rock",0.638,0.677,0.585,81.045,-5.28,181880,4,1
+2B1fuWoWaYnCXbjYp1gXg5,Boomerang,Imagine Dragons,53,2018-11-09,"modern rock, pop, rock",0.429,0.559,0.343,100.081,-7.492,187800,2,1
+2bzitsPcImYC6DZWvvLCQi,"Zero - From the Original Motion Picture ""Ralph Breaks The Internet""",Imagine Dragons,66,2018-11-09,"modern rock, pop, rock",0.635,0.661,0.251,90.018,-7.543,210933,6,1
+7FdUvDkaE24o3FPIWTvzv2,Follow You,Imagine Dragons,62,2021-03-12,"modern rock, pop, rock",0.542,0.732,0.489,124.912,-5.956,175644,9,1
+2sU9EjevkrU9OkPZudvFNN,Believer (feat. Lil Wayne),Imagine Dragons,58,2019-01-07,"modern rock, pop, rock",0.487,0.838,0.762,93.701,-4.319,219705,10,0
+2nkoWsTZa8LKPNGdjI5uxj,West Coast,Imagine Dragons,62,2018-11-09,"modern rock, pop, rock",0.67,0.715,0.677,104.969,-6.18,217173,0,1
+1uRBbjQ3uNFXCncWyNomHf,Only,Imagine Dragons,51,2018-11-09,"modern rock, pop, rock",0.691,0.804,0.423,104.996,-5.029,180733,9,1
+6LXMUR2rpxFBDo6nilS3yX,Cool Out,Imagine Dragons,52,2018-11-09,"modern rock, pop, rock",0.636,0.718,0.438,143.929,-4.833,217867,1,0
+3R4Xk37WTagjzODMNEQLvs,Bullet In A Gun,Imagine Dragons,51,2018-11-09,"modern rock, pop, rock",0.816,0.736,0.476,130.028,-5.495,204853,8,1
+5Z9SQPYU95S6M1vcbLsDt2,Stuck,Imagine Dragons,48,2018-11-09,"modern rock, pop, rock",0.621,0.478,0.248,115.036,-8.246,190853,5,1
+6Tvzf3VEi16JMhAgOwdt2y,Birds,Imagine Dragons,69,2018-11-09,"modern rock, pop, rock",0.649,0.516,0.35,119.997,-7.428,219440,1,0
+0n0TbMUY2xrZlvd5J6XsqO,Cutthroat,Imagine Dragons,45,2021-03-12,"modern rock, pop, rock",0.66,0.625,0.686,166.284,-5.277,169741,7,1
+5d41vXH0zvpwUrHrmqKqDc,Love,Imagine Dragons,54,2018-11-09,"modern rock, pop, rock",0.697,0.507,0.382,82.483,-6.178,166360,8,1
+6mXFjc0VbW0vs8UeEkT85r,I Don’t Know Why,Imagine Dragons,0,2017-06-23,"modern rock, pop, rock",0.491,0.65,0.0705,121.123,-7.362,190120,2,1
+2LaCyasH2uVsTPrO3bgLEK,Next To Me,Imagine Dragons,0,2017-06-23,"modern rock, pop, rock",0.296,0.683,0.398,171.365,-4.413,230289,2,1
+1AJQ97yAt6xfeF7nQaE1t8,Walking The Wire,Imagine Dragons,0,2017-06-23,"modern rock, pop, rock",0.307,0.764,0.133,99.647,-5.268,232907,4,1
+1lgN0A2Vki2FTON5PYq42m,Warriors,Imagine Dragons,64,2015-10-16,"modern rock, pop, rock",0.372,0.851,0.307,78.094,-6.238,170067,4,0
+0WVAQaxrT0wsGEG4BCVSn2,Born To Be Yours,Kygo,58,2018-06-15,"edm, pop, pop dance, tropical house",0.688,0.688,0.451,114.011,-5.84,193321,3,1
+3mha0HzD52axbosG3H4Xsm,Rise Up,Imagine Dragons,0,2017-06-23,"modern rock, pop, rock",0.344,0.73,0.0769,93.702,-6.582,231720,8,1
+7JAzAyjbJFPznEFdqpa1Si,Real Life,Imagine Dragons,52,2018-11-09,"modern rock, pop, rock",0.262,0.562,0.123,195.556,-7.987,247547,0,1
+4J2RaG4UH2HCThcqzDpeAF,Start Over,Imagine Dragons,0,2017-06-23,"modern rock, pop, rock",0.698,0.929,0.74,98.026,-5.046,186080,4,1
+15DrrIod12Tc2IoMaHiwlQ,I Bet My Life,Imagine Dragons,57,2014-09-18,"modern rock, pop, rock",0.553,0.657,0.555,107.889,-8.219,192707,1,1
+226wUCyDbHZ0cAs3InvNmo,Mouth Of The River,Imagine Dragons,0,2017-06-23,"modern rock, pop, rock",0.488,0.91,0.3,96.003,-6.991,221560,8,1
+4qhDA6s0MkD5XpDqGLHIEY,Digital,Imagine Dragons,49,2018-11-09,"modern rock, pop, rock",0.49,0.889,0.383,166.784,-5.179,201040,7,1
+64MmobYNviePoiaINMrbMn,Shots,Imagine Dragons,50,2014-09-18,"modern rock, pop, rock",0.552,0.76,0.338,104.957,-6.861,232333,11,0
+6NaBDHz9C7Uz9Z9CwLXQin,Bleeding Out,Imagine Dragons,53,2012-09-04,"modern rock, pop, rock",0.287,0.754,0.285,169.336,-4.077,221053,5,0
+4GITtbZtRCQXhWLMXrWXHt,Roots,Imagine Dragons,62,2015-08-27,"modern rock, pop, rock",0.637,0.887,0.596,157.759,-5.444,174507,7,0
+5Q7zuH8VNu7aLappSusPu6,Burn Out,Imagine Dragons,49,2018-11-09,"modern rock, pop, rock",0.588,0.494,0.291,135.015,-8.831,273880,10,0
+4y5pvUsy617AUKl4l25lk8,I’ll Make It Up To You,Imagine Dragons,0,2017-06-23,"modern rock, pop, rock",0.334,0.694,0.166,176.897,-7.41,262600,7,1
+6Ng999MKVY9ikd8FtGaNnz,Polaroid,Imagine Dragons,44,2015-10-16,"modern rock, pop, rock",0.423,0.603,0.258,155.207,-6.832,230013,1,1
+4Z1WUYEO47LPbsV3WchCyP,Gold,Imagine Dragons,0,2014-12-16,"modern rock, pop, rock",0.314,0.471,0.269,110.042,-6.914,216160,9,0
+5WZn6AJc3D8xM58UqPlco9,My Fault,Imagine Dragons,36,2012-09-04,"modern rock, pop, rock",0.596,0.813,0.519,108.507,-6.226,175333,7,1
+4o74y4XY1ypNZkZtZkK8Wi,I’m So Sorry,Imagine Dragons,59,2014-09-18,"modern rock, pop, rock",0.524,0.679,0.37,142.588,-6.01,230200,2,0
+3ubpkIvw8SDchaRPEKIQPS,Release,Imagine Dragons,40,2015-10-16,"modern rock, pop, rock",0.379,0.397,0.408,138.356,-11.247,148200,2,0
+25DpvTS4zsmLiVLx8Zv3N0,Dream,Imagine Dragons,50,2014-09-18,"modern rock, pop, rock",0.346,0.509,0.115,143.437,-7.693,258000,1,0
+3dw0A0cbqT6Oy2V8KfGwIT,Tiptoe,Imagine Dragons,44,2012-09-04,"modern rock, pop, rock",0.527,0.82,0.251,120.041,-5.855,193000,6,1
+46bkeaB7DA45q7PdKWLFkR,Amsterdam,Imagine Dragons,45,2012-09-04,"modern rock, pop, rock",0.517,0.768,0.206,115.002,-4.961,241427,9,1
+6pLhhL7EzoVWoyvyTBjqP6,Round And Round,Imagine Dragons,40,2012-09-04,"modern rock, pop, rock",0.455,0.858,0.48,141.947,-4.221,196933,0,0
+7oeeeHdNY8S6zVsU0fuWLr,Trouble,Imagine Dragons,34,2014-09-18,"modern rock, pop, rock",0.402,0.89,0.302,159.924,-5.31,191400,8,1
+3Agiwcd2KjBOG2MkckhC3i,Hear Me,Imagine Dragons,42,2012-09-04,"modern rock, pop, rock",0.613,0.833,0.54,125.03,-4.694,232240,4,1
+2iIb73Qn02LsZwpW8RJUxh,Friction,Imagine Dragons,49,2014-09-18,"modern rock, pop, rock",0.671,0.537,0.273,104.007,-8.745,201800,8,1
+2Xaw1RrXP3mdooKWysuRJ8,Monster,Imagine Dragons,60,2015-10-16,"modern rock, pop, rock",0.472,0.774,0.443,179.943,-5.383,249493,3,1
+5ygTySvimUjWJk9WLgMDCn,Hopeless Opus,Imagine Dragons,40,2015-10-16,"modern rock, pop, rock",0.633,0.657,0.591,140.041,-6.166,238800,3,1
+7ER7vcy7u2ajg5IV45WBFw,Thunder / Young Dumb & Broke (with Khalid) - Medley,Imagine Dragons,58,2017-12-20,"modern rock, pop, rock",0.439,0.681,0.3,168.082,-5.516,251284,0,1
+2Q4OrJV7rGtUpPsLGbchgr,Thief,Imagine Dragons,40,2015-10-16,"modern rock, pop, rock",0.418,0.715,0.129,149.954,-5.75,227493,0,1
+3M0yRNYZ3GIjHYSNPHazOh,Gasolina y Mechero,Depresión Sonora,54,2021-03-05,spanish post-punk,0.638,0.833,0.754,93.004,-10.535,152645,11,1
+2VyMyqR2ona9yAFk7WsJNW,Ya No Hay Verano,Depresión Sonora,61,2020-05-08,spanish post-punk,0.583,0.76,0.977,179.834,-6.616,174667,6,1
+6P2ITQT43x0rC0yqkSaXNo,Hasta Que Llegue la Muerte,Depresión Sonora,53,2020-05-08,spanish post-punk,0.749,0.907,0.98,169.978,-3.79,220463,1,0
+2N7QCU3QVT72B9sQIWXPHr,Como todo el Mundo,Depresión Sonora,56,2022-11-03,spanish post-punk,0.671,0.88,0.532,102.003,-5.05,231587,2,1
+6HNBKSdmLoB6v5vszsiszt,"Generación Perdida, Diversión Prohibida",Depresión Sonora,50,2021-05-28,spanish post-punk,0.605,0.683,0.965,176.014,-12.341,201109,9,1
+4VX4DD8LXBM0apZMovdHMB,Apocalipsis Virtual,Depresión Sonora,45,2021-04-22,spanish post-punk,0.617,0.777,0.921,96.513,-9.736,237914,1,0
+7kMBShbwV14jpAQ0GZRB2i,desorden del sueño,Ghouljaboy,0,2021-11-26,emo trap en espanol,0.415,0.836,0.567,179.818,-4.479,146980,10,1
+0wsUq03EBFYY9SYpAXo3Wv,Hay Que Abandonar Este Lugar,Depresión Sonora,46,2020-05-08,spanish post-punk,0.677,0.869,0.935,159.994,-5.657,180750,11,0
+45Bs2kaTWFUVJQV7Cpzn2x,Dime Que Me Odias,Depresión Sonora,44,2020-05-08,spanish post-punk,0.691,0.789,0.962,170.06,-5.704,208941,10,1
+6uLWL3A4nisoEeGzuZEfEF,Mira Mis Ojos,Depresión Sonora,41,2020-05-08,spanish post-punk,0.695,0.779,0.96,123.964,-4.651,176129,3,1
+4K3j4RfU2P4EX1yuLJSdkB,15,The Space Ocean,44,2020,,0.415,0.492,0.239,172.981,-11.88,229725,11,1
+72iP5oCnYyN3unguw4wMD1,Veo tan Dentro,Depresión Sonora,52,2022-11-03,spanish post-punk,0.619,0.883,0.495,181.975,-5.632,239933,9,1
+648639ImUdRqgV1nzvXYQE,Tú No Me Tienes Que Salvar,Depresión Sonora,49,2020-12-10,spanish post-punk,0.656,0.699,0.752,94.5,-10.035,230249,11,1
+0UJlzOqGuPcZ8YWGz9bd4q,Ya no te veré,Depresión Sonora,42,2022-06-16,spanish post-punk,0.31,0.801,0.42,161.325,-7.337,230251,0,1
+5RKUztud1fb5UhO4gljjl7,It's Ok - Slowed,Edith Whiskers,60,2021-05-12,,0.58,0.183,0.196,131.762,-13.6,214371,6,0
+55DfugJIh1351fCiwO2we2,La Tormenta De Arena,Dorian,61,2009-09-13,"spanish indie pop, spanish modern rock",0.603,0.805,0.555,127.984,-2.952,368360,6,0
+3JUaCIDpLc2kmY86lCm3aT,Ya no siento nada,Alizzz,44,2021-11-26,"tontipop, vapor twitch",0.679,0.742,0.695,120.123,-5.757,192313,9,1
+78NzYFBsYY78qeazgKZCoc,No m'estima +,Mushkaa,47,2023-08-11,,0.527,0.708,0.514,130.039,-7.035,192000,8,0
+5GjKmTQY3ANW1QzvMU0W1l,El Mambo,Mushkaa,42,2023-06-30,,0.703,0.905,0.767,115.017,-4.477,128000,7,1
+65i39CwDMx05aGt3Wnl0eI,El Tonteo,The Tyets,47,2023-03-03,"musica catalana, trap catala",0.836,0.89,0.63,99.989,-3.278,119735,5,1
+2VaX7eyMo7UxIQgCPVfZoc,Sembla Mentida,Mushkaa,44,2023-02-24,,0.779,0.697,0.749,94.0,-7.643,176000,2,1
+3h4CfJl73mhxOxDRPzIIIM,Tu y Yo,Ceaxe,20,2022-07-01,,0.599,0.777,0.689,104.365,-3.985,185970,5,0
+2aTvlIMGoo2L9x5YzJNjj5,La Gent Que Estimo,Oques Grasses,59,2021-05-28,"indie catala, musica catalana, reggae catala, rock catala",0.348,0.239,0.145,104.716,-13.241,239760,10,1
+6uwVwVdsXpOmq1BYY8rDtM,Coti x Coti,The Tyets,46,2023-02-17,"musica catalana, trap catala",0.798,0.636,0.573,97.991,-5.264,147726,0,1
+1KoM5GTuiZMAbdWY7hkdoi,Bailoteo,The Tyets,49,2023-03-03,"musica catalana, trap catala",0.805,0.786,0.864,132.938,-4.972,180092,9,1
+7aMxgxCCbkmtRpNNB5OWgY,Elefants,Oques Grasses,55,2021-05-28,"indie catala, musica catalana, reggae catala, rock catala",0.614,0.722,0.431,138.097,-6.851,242387,1,1
+15Q0nVMGSUJJWsRcEvk6ik,Avions volant,Julieta,27,2023-06-09,musica catalana,0.515,0.498,0.232,159.815,-9.572,174200,5,1
+53NxLx3tMSZi4jOY3P7HkE,Magdalenes,31 FAM,28,2018-04-16,"rap catala, trap catala",0.828,0.361,0.0798,95.004,-13.667,209684,5,0
+3GboiOxbJD3Y0uKmfjF4Ip,Clar que t’he trobat a faltar,The Tyets,44,2023-03-03,"musica catalana, trap catala",0.814,0.668,0.462,176.015,-4.569,208871,1,0
+3Rch2FyIqqoyNKfFO7mB83,SECR3T,Julieta,45,2022-11-07,musica catalana,0.779,0.776,0.425,104.998,-5.021,138857,2,1
+5zfVQFZ6T20uTip2mti2pn,DIABLA,Figa Flawas,52,2024-01-26,musica catalana,0.686,0.802,0.62,178.0,-4.445,162472,5,0
+73MjFllwVXf4jpgsw0eRUi,TAS LOKO,Mushkaa,38,2023-04-14,,0.638,0.829,0.63,139.999,-4.862,245000,9,0
+6wf7Yu7cxBSPrRlWeSeK0Q,"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,85,2023-07-13,"art pop, pop",0.391,0.084,0.111,79.449,-17.843,222370,0,1
+3GYlZ7tbxLOxe6ewMNVTkw,TV,Billie Eilish,82,2022-07-21,"art pop, pop",0.412,0.236,0.119,140.214,-15.159,281381,4,0
+4R2kfaDFhslZEMJqAFNpdd,cardigan,Taylor Swift,83,2020-07-24,pop,0.613,0.581,0.551,130.033,-8.588,239560,0,0
+5UXJzLFdBn6u9FJTCnoHrH,Memories,Conan Gray,77,2022-06-24,"bedroom pop, pop, pov: indie",0.34,0.684,0.556,112.969,-6.306,248819,11,1
+0DuWDLjriRPjDRoPgaCslY,Love In The Dark,Adele,79,2015-11-20,"british soul, pop, pop soul, uk pop",0.331,0.341,0.152,109.821,-6.057,285935,9,0
+1Fid2jjqsHViMX6xNH70hE,Atlantis,Seafret,81,2016-01-29,folk-pop,0.4,0.479,0.213,166.159,-7.989,229173,8,0
+3hUxzQpSfdDqwM3ZTFQY0K,august,Taylor Swift,83,2020-07-24,pop,0.532,0.623,0.403,89.937,-9.208,261923,5,1
+5SHpuW2qjkQtFRpE6P9Nks,The 30th,Billie Eilish,72,2022-07-21,"art pop, pop",0.387,0.135,0.21,82.987,-14.398,216448,7,1
+4xqrdfXkTW4T0RauPLv3WA,Heather,Conan Gray,84,2020-03-20,"bedroom pop, pop, pov: indie",0.357,0.425,0.27,102.078,-7.301,198040,5,1
+04sN26COy28wTXYj3dMoiZ,Bored,Billie Eilish,80,2017-03-30,"art pop, pop",0.614,0.318,0.112,119.959,-12.695,180933,7,1
+4wcBRRpIfesgcyUtis7PEg,"1 step forward, 3 steps back",Olivia Rodrigo,76,2021-05-21,pop,0.473,0.203,0.419,168.884,-12.627,163587,2,1
+4x5YzxjrF9wvIIXJV7TveC,Till Forever Falls Apart,Ashe,70,2021-05-07,alt z,0.346,0.501,0.299,99.855,-6.939,222927,2,1
+69HzZ3ti9DLwb0GdWCGYSo,Moral of the Story,Ashe,75,2021-05-07,alt z,0.569,0.403,0.269,119.819,-8.618,201017,10,1
+32BeYxKPrig1LefHsC0Xuo,Happier Than Ever - Edit,Billie Eilish,69,2021-07-28,"art pop, pop",0.334,0.599,0.127,161.74,-5.742,151444,0,1
+4Yxc55NX3tAXC2mHRAhtcW,"All I Want - From ""High School Musical: The Musical: The Series""",Olivia Rodrigo,76,2019-11-27,pop,0.376,0.43,0.129,77.599,-6.585,177323,0,0
+22bPsP2jCgbLUvh82U0Z3M,The Way I Loved You (Taylor’s Version),Taylor Swift,73,2021-04-09,pop,0.402,0.732,0.472,161.032,-4.665,243137,5,1
+3TFoEJe5zNuHZStRboWPxg,People Watching,Conan Gray,73,2022-06-24,"bedroom pop, pop, pov: indie",0.53,0.592,0.544,125.721,-7.281,158537,5,1
+3TfDUStpnEVIlsNlgcKQgJ,die first,Nessa Barrett,69,2022-10-14,"alt z, social media pop",0.444,0.669,0.44,183.441,-6.727,177109,8,0
+3i058E8uxTsYqJ5NWZzqSj,Little Freak,Harry Styles,72,2022-05-20,pop,0.559,0.535,0.402,141.96,-7.723,202183,3,1
+5enxwA8aAbwZbf5qCHORXi,All Too Well (10 Minute Version) (Taylor's Version) (From The Vault),Taylor Swift,79,2021-11-12,pop,0.631,0.518,0.205,93.023,-8.771,613027,0,1
+1R0a2iXumgCiFb7HEZ7gUE,Don’t Blame Me,Taylor Swift,82,2017-11-10,pop,0.615,0.534,0.193,135.917,-6.719,236413,9,0
+3zwMVvkBe2qIKDObWgXw4N,right where you left me - bonus track,Taylor Swift,74,2021-01-07,pop,0.581,0.619,0.645,137.915,-6.524,245027,10,1
+0sY6ZUTh4yoctD8VIXz339,champagne problems,Taylor Swift,76,2020-12-11,pop,0.462,0.24,0.32,171.319,-12.077,244000,0,1
+2JN3ugW1cEahbYw0I5mw5U,Astronomy,Conan Gray,72,2022-06-24,"bedroom pop, pop, pov: indie",0.474,0.343,0.152,145.115,-8.571,243907,4,0
+5WtfUKzXircvW8l5aaVZWT,What A Time (feat. Niall Horan),Julia Michaels,75,2019-01-24,pop,0.516,0.467,0.386,132.861,-6.184,173307,0,1
+3GWaFFi6TlPcZLYmCCHZ9O,Teenage Dream,Stephen Dawes,67,2022-06-02,singer-songwriter pop,0.622,0.375,0.221,111.968,-9.069,178000,10,1
+4IhKLu7Vk3j2TLmnFPl6To,Water Fountain,Alec Benjamin,71,2018-11-16,"alt z, pop, pov: indie",0.723,0.504,0.551,133.975,-5.572,218893,8,1
+3sqrvkNC6IPTIXvvbx9Arw,Enchanted,Taylor Swift,69,2010-01-01,pop,0.535,0.618,0.228,81.975,-3.913,352200,8,1
+1JgknGBbrfmEHeOZH051SS,ecstacy (slowed),SUICIDAL-IDOL,76,2023-06-06,"scenecore, sped up",0.551,0.677,0.195,106.414,-7.311,119120,2,1
+37vVp2sWHuuIBOSl1NswP6,i'm yours,Isabel LaRosa,80,2022-10-28,"hyperpop, sped up",0.398,0.705,0.635,111.487,-7.07,145668,5,0
+7wuJGgpTNzbUyn26IOY6rj,Total Eclipse of the Heart,Bonnie Tyler,79,2009-03-26,"europop, new wave pop, soft rock",0.431,0.723,0.19,130.141,-5.887,267360,8,1
+2GxrNKugF82CnoRFbQfzPf,i like the way you kiss me,Artemas,84,2024-03-19,,0.599,0.946,0.747,151.647,-4.263,142515,11,1
+2NbsBSshscKIPRG3kwBbfo,Never Felt So Alone,Labrinth,68,2023-04-07,"indie poptimism, pop",0.436,0.409,0.363,98.357,-4.438,160166,5,1
+0lIoY4ZQsdn5QzhraM9o9u,Because the Night,Patti Smith,65,1978,"art punk, permanent wave, protopunk, singer-songwriter",0.466,0.763,0.473,123.539,-7.748,204800,11,0
+6GGtHZgBycCgGBUhZo81xe,Say Yes To Heaven,Lana Del Rey,83,2023-05-19,"art pop, pop",0.485,0.348,0.145,99.898,-11.576,209156,6,0
+2WfaOiMkCvy7F5fcp2zZ8L,Take on Me,a-ha,84,1985-06-01,"new romantic, new wave, new wave pop, permanent wave, synthpop",0.573,0.902,0.876,84.412,-7.638,225280,6,0
+5yfnAsPrvrjiLOhWFycNP4,I'm Only a Fool for You,Dybbukk Covers,67,2018-04-04,"slowed and reverb, sped up",0.552,0.322,0.569,58.087,-9.789,61176,6,0
+72XhVH8vlREICt6NmT623Q,WASTE - Sped Up Version,KXLLSWXTCH,67,2022-11-11,"dark trap, oc rap, scream rap",0.592,0.227,0.178,79.365,-10.329,100500,2,0
+3BJe4B8zGnqEdQPMvfVjuS,Summertime Sadness,Lana Del Rey,82,2012-01-01,"art pop, pop",0.565,0.654,0.235,111.968,-6.826,265427,1,0
+1jDJFeK9x3OZboIAHsY9k2,I'm Still Standing,Elton John,82,1983-05-30,"glam rock, mellow gold, piano rock, rock",0.505,0.904,0.773,176.811,-6.863,183440,6,1
+3taCbWWTilb7eNMsAzOBq4,Radio,Lana Del Rey,72,2012-01-01,"art pop, pop",0.423,0.857,0.196,75.024,-5.173,214574,2,1
+7ppPZa3TRUSGKaks9wH7VT,Don't Look Back In Anger,Oasis,67,1995-10-02,"beatlesque, britpop, madchester, permanent wave, rock",0.349,0.917,0.206,164.036,-3.645,287827,0,1
+5GjPQ0eI7AgmOnADn1EO6Q,Eleanor Rigby - Remastered 2009,The Beatles,71,1966-08-05,"british invasion, classic rock, merseybeat, psychedelic rock, rock",0.581,0.28,0.813,137.831,-9.091,126533,4,0
+4ZnkygoWLzcGbQYCm3lkae,Rush,Troye Sivan,77,2023-10-13,"australian pop, pop, viral pop",0.728,0.841,0.402,125.991,-7.682,156391,10,0
+5NQw9mvEfBYOEmfl0A2A0i,prettygrunge.wav,Artemas,60,2023-12-01,,0.412,0.67,0.395,134.024,-3.959,119104,4,1
+1ZYUi9KmsftgZdWbNBcJcr,Heaven Knows I'm Miserable Now - 2008 Remaster,The Smiths,43,2008-11-11,"madchester, new wave, permanent wave, rock, uk post-punk",0.605,0.771,0.731,114.06,-4.882,216440,6,1
+1XXimziG1uhM0eDNCZCrUl,Up,Cardi B,63,2021-02-05,"pop, rap",0.868,0.795,0.819,166.0,-6.044,156945,11,1
+2IJftBfq7pJ43tfnOR0RB3,99 Luftballons,Nena,73,1983-09-23,"german pop, new wave pop",0.636,0.467,0.58,96.639,-10.1,231467,4,1
+4OmfWzukSVD140NiAIEjem,Static,Steve Lacy,74,2022-07-15,afrofuturism,0.335,0.305,0.215,79.001,-12.661,156507,1,1
+4UPPiHirfinLRMM7UEoalw,Girls Just Wanna Have Some,dreamsoda,49,2014-11-06,,0.667,0.629,0.455,115.002,-8.493,223237,0,1
+4oITtKgZh6lPRM1JSEb4sX,COM EL DIA I LA NIT,Oques Grasses,52,2024-04-12,"indie catala, musica catalana, reggae catala, rock catala",0.369,0.634,0.326,159.065,-7.52,253773,1,1
+2ceTylNropN8MsY6BqE5R7,LOKURA,Julieta,39,2023-12-13,musica catalana,0.613,0.587,0.233,119.993,-9.21,146000,8,0
+4lT3u24QgLyJTsJMLFviM4,Trenca'm el cor,Julieta,10,2022-07-27,musica catalana,0.744,0.516,0.0744,117.097,-4.921,160769,4,0
+3UI1B4h91XMAv5U5y7S95O,Avions volant,Julieta,35,2023-09-15,musica catalana,0.515,0.498,0.232,159.815,-9.572,174200,5,1
+6mLPkvnKqIuFZRl3dtIPxq,Cari,Julieta,33,2023-09-15,musica catalana,0.789,0.569,0.771,127.035,-7.855,130394,4,0
+27G29Stoqo8m54Ed6pYD5b,Diga'm el que sents,Julieta,28,2023-09-15,musica catalana,0.474,0.416,0.121,81.833,-8.7,159044,4,0
+4B1lhMZOGjSabNRjfR7wN9,T'enxules,Julieta,30,2023-09-15,musica catalana,0.76,0.488,0.695,88.02,-7.379,164211,1,0
+5hYpxHUfXKC0Efxd4VaBcA,Enamorada de tu,Julieta,25,2023-09-15,musica catalana,0.847,0.764,0.547,111.979,-7.749,189107,7,1
+24UhCg2xznaNpBBF2yZ2Xq,Oh la la,Julieta,21,2023-09-15,musica catalana,0.835,0.669,0.691,119.976,-8.2,148609,4,0
+4cuMDw7hgbXPcuiMeMne3u,En la plaza,Julieta,25,2023-09-15,musica catalana,0.614,0.783,0.56,90.025,-7.02,118515,4,0
+07Zg0AGkA8nOseaMqxIaE1,Com aquell agost,Julieta,26,2023-09-15,musica catalana,0.558,0.327,0.369,135.754,-10.33,210000,2,1
+7nJnUJlT296cZ6xmNUbyKv,Tú y yo,Julieta,19,2023-09-15,musica catalana,0.467,0.508,0.252,169.251,-7.959,170294,0,1
+55wsXItMIs1MREkR9XocdL,Euga de nit,Julieta,26,2023-09-15,musica catalana,0.305,0.61,0.571,137.414,-13.774,41143,8,0
+3ttvnwAQtUijJK9jMV5scH,Si tienes frío,Julieta,20,2023-09-15,musica catalana,0.699,0.455,0.444,160.015,-9.558,146922,7,1
+7twKjgFnghnbH5IXYZG6w3,Sueños,Julieta,20,2023-09-15,musica catalana,0.402,0.214,0.36,110.625,-15.586,153338,7,1
+2Lxh7cgTJVk03nXae9W1jE,El mundo sin ti,Julieta,22,2022-09-16,musica catalana,0.735,0.503,0.119,125.079,-7.892,250325,9,0
+0I1rSqGKsrjYmRLM2DSxLR,L'amor és per valents,Julieta,20,2022-09-16,musica catalana,0.762,0.122,0.0453,109.792,-12.159,233455,0,1
+6IkzkfMzOWy8Bm7RnvAM9H,Tu Juru Ju,Julieta,34,2021-07-02,musica catalana,0.72,0.581,0.0577,94.023,-10.901,194170,6,0
+3N3C37zWmlpuffMFBTawVP,Algun dia,Julieta,27,2021-12-15,musica catalana,0.755,0.684,0.345,117.968,-7.098,191185,1,0
+06lewd84V1DVIZ42nOiRGX,A les fosques,Julieta,24,2022-09-16,musica catalana,0.707,0.647,0.267,119.974,-8.196,252621,9,0
+1DS5YayKjMwTCiRNR2wr7u,Ni llum ni lluna,Julieta,15,2022-09-16,musica catalana,0.774,0.472,0.383,115.975,-8.975,185552,11,0
+6vfWci2ghcPK3v6MLW8RkB,En mi mente,Julieta,25,2022-09-16,musica catalana,0.72,0.536,0.173,100.058,-6.776,234930,4,0
+61Tbau1F9Q51vdoeJKHyW0,Trenca'm el cor,Julieta,32,2022-09-16,musica catalana,0.738,0.494,0.0737,117.093,-6.375,159402,4,0
+50b3JZfllWZtsItDYxgBLV,A150,Julieta,23,2021-12-15,musica catalana,0.653,0.49,0.288,99.995,-8.835,166000,1,0
+5LX3hqlz4IYEtaxEKkYqpx,Si ha de ser serà,Julieta,32,2021-12-15,musica catalana,0.652,0.344,0.14,143.693,-7.951,258000,11,1
+5pO9pJ4X7chzWMVVLY11fV,TUM VALORES,Julieta,22,2021-12-15,musica catalana,0.785,0.648,0.321,100.043,-7.543,187719,1,0
+2Dl7GyO0IyWXq3oCdfrJ35,Cada cop que em mires,Julieta,23,2021-12-15,musica catalana,0.534,0.528,0.127,169.859,-8.985,227000,11,0
+18tTN4aKYlTdGG28WbYgpR,G Spot,Boom Boom Fighters,13,2023-11-17,musica catalana,0.858,0.731,0.66,100.013,-5.961,194700,3,0
+7qiEoVlFjb3KaytT2zgK1g,Doomsday Blue,Bambie Thug,58,2023-10-13,,0.487,0.846,0.16,130.008,-7.123,183741,10,0
+6XDxwqiPKHwngY4Fd6L7Ni,haiku,Julieta,38,2024-04-26,musica catalana,0.577,0.529,0.556,176.019,-7.037,164318,7,1
+1wvWlHtVXRgsm9ctGieVAx,Xuculatina - Remix,Figa Flawas,44,2022-08-12,musica catalana,0.824,0.931,0.789,119.968,-3.872,193250,0,1
+5lDRfQXgTA985GAb0ngSHi,DIABLA,Figa Flawas,42,2023-05-11,musica catalana,0.686,0.802,0.62,178.0,-4.445,162472,5,0
+6cOjQjg8GRhLozpoyiqvfp,RAMONA FLOWERS,Alvaro Diaz,62,2024-05-17,"trap boricua, urbano latino",0.66,0.808,0.761,137.998,-6.05,180840,0,1
+57uiO4cG6bK5yq51BJTvyE,Jálale alv,Bb trickz,63,2024-05-02,,0.899,0.7,0.897,134.831,-5.494,109867,2,1
+6NHC3pFpYys1xgkqpk96tF,Trickstar,Bb trickz,48,2024-05-16,,0.84,0.84,0.921,135.11,-2.665,131957,9,1
+6qoKAjU70Zn8qDF3NJ7mv5,VIVA ESPAÑA !!!,Bb trickz,47,2023-11-01,,0.758,0.561,0.905,150.129,-9.246,79022,2,1
+79H6QU3YnrsjxlDmMKU8uA,Missionsuicida,Bb trickz,43,2023-04-14,,0.844,0.736,0.789,147.021,-4.801,88159,2,1
+3C7pmgjhItjjsgWeJucft8,Catalaneta Bichigyal,Xenia Casado,15,2024-05-22,,0.68,0.748,0.385,179.934,-6.348,117333,9,0
+0HIbm4W6C8Ar2Cnen0tE44,LA MARINA STA MORENA,Figa Flawas,67,2024-07-04,musica catalana,0.726,0.894,0.477,136.009,-5.36,131333,7,0
+6jGRVhTB3P0306pQHpFcF8,QUE NO S'ACABI,Figa Flawas,55,2024-01-26,musica catalana,0.713,0.771,0.343,110.034,-7.79,198273,10,1
+6IZ3ZRTmBAJWeoC8eHFnDc,I. ANTÍGONA,Fillas de Cassandra,29,2023-02-24,galego,0.312,0.433,0.0882,86.693,-9.715,138082,3,0
+14ojZous9zltLKWIccqDfs,VI. DAFNE E SYRINX,Fillas de Cassandra,27,2023-02-24,galego,0.542,0.355,0.529,81.905,-11.729,127683,3,1
+3YnXsOQNCa7X0U5hELABjY,IV. ECO,Fillas de Cassandra,32,2023-02-24,galego,0.589,0.355,0.125,129.928,-10.582,240231,11,0
+3wubdBrN573CGQUbH7DCri,VIII. ACRÓPOLE,Fillas de Cassandra,27,2023-02-24,galego,0.378,0.396,0.0397,149.571,-10.766,205200,0,0
+3KJ52eq5xaJVKDHDz4JQPt,d´ESCARNIO,Fillas de Cassandra,32,2024-07-12,galego,0.599,0.613,0.067,104.906,-7.66,159149,4,0
+0ALQAyk3uwIHqshWvqrsy8,Da voz de Lisístrata,Fillas de Cassandra,0,2023-02-24,galego,0.733,0.151,0.883,59.475,-19.454,29500,6,1
+4kjELVJfUD5JZMz0LOYimR,III. PANDORA,Fillas de Cassandra,28,2023-02-24,galego,0.613,0.532,0.519,180.106,-10.574,184333,8,0
+6wjBLp4HqZw7GkpeQIUax4,Da voz de Cassandra,Fillas de Cassandra,24,2023-02-24,galego,0.724,0.163,0.198,81.168,-15.842,94054,0,1
+6zGHQG7TNhKpCuXm4OCd6Y,VII. CASSANDRA (Fillas de Cassandra),Fillas de Cassandra,32,2023-02-24,galego,0.454,0.526,0.452,138.011,-10.899,195109,4,0
+12LtsN2VcL16Y6fUbgluG3,Quen é a que canta?,Tanxugueiras,40,2024-03-29,galician folk,0.541,0.409,0.413,130.009,-7.686,172805,7,0
+71vbGT1AcWXvWKKikjzYtv,canta miña sombra (negra sombra),Fillas de Cassandra,30,2023-09-15,galego,0.373,0.319,0.191,111.155,-11.578,185469,3,0
+0lZnvkbn2T2FdbIFpGkKN8,Tola,Fillas de Cassandra,35,2023-07-28,galego,0.767,0.568,0.507,98.905,-11.269,155637,9,0
+4u2j7emEexVQicZfdwY9tG,Tataravoa,Fillas de Cassandra,40,2023-07-07,galego,0.536,0.59,0.286,131.77,-7.523,189091,5,0
+0arV4EJHeuxEwAAugXbmSk,PUNHETA!,Mondra,25,2023-03-17,galego,0.573,0.533,0.579,144.578,-9.36,212690,9,0
+3fKRGAe3zhjU0OaF0ymjLr,V. AS MOIRAS,Fillas de Cassandra,23,2022-12-16,galego,0.486,0.449,0.352,141.013,-9.999,221277,9,0
+6ooXU5qxzXLZKP7Tkf2QMs,II. LISÍSTRATA (Varre Vasoira),Fillas de Cassandra,24,2022-10-07,galego,0.752,0.545,0.748,136.041,-8.272,169152,8,1
+5I5PySI539254yhIYqNzwd,I. ANTÍGONA,Fillas de Cassandra,20,2022-09-09,galego,0.312,0.433,0.0882,86.693,-9.715,138082,3,0
+2fORi24XXuCoYoekjvaf15,Contra vento e marea,Rebeliom do Inframundo,26,2024-04-25,rap galego,0.549,0.759,0.349,97.933,-5.817,276429,1,0
+6uUIgZ3CZclLytgKKJUc0T,Musgo,Chungo Pastel,8,2023-12-29,,0.489,0.809,0.334,137.928,-6.321,241169,4,0
+4SZFMySBq9mWBqyqd73VmI,ANGULEELE,ZETAK,36,2023-12-06,euskal musica,0.683,0.851,0.588,138.99,-5.156,181090,7,0
+3oCQrNT8eTBFjInWpVIBhy,PUNHETA!,Mondra,0,2023-03-17,galego,0.573,0.533,0.579,144.578,-9.36,212690,9,0
+09Uh8Hk1UI5i5qmvQJIFD7,música nos ouvidos,Berto,12,2022-12-02,galego,0.764,0.488,0.77,104.016,-11.498,196154,0,1
+5Ju4u8jO9gPWEvvIMqi7Vd,DiMe,Berto,14,2022-12-02,galego,0.638,0.506,0.556,90.919,-10.019,180000,7,0
+0uOxKY91hTmnJOxGPGpJtd,Todo cambia,Dani Fernández,60,2024-01-18,spanish pop,0.678,0.721,0.856,119.996,-2.178,210127,9,1
+43IK9P5MlkuDsnvfCo7IDb,MARICARMEN,Fillas de Cassandra,36,2024-09-13,galego,0.445,0.399,0.138,154.931,-12.64,193827,4,0
+4LGHbL6AJ1ZOX1cB4s3WGV,Os Meus Males,9Louro,26,2024-11-07,,0.724,0.68,0.83,127.974,-7.673,169219,10,0
+6XlvICCsFuVLbsh15lbA48,⁠Cuando nadie ve (Canción Original de “Soy Nevenka”),Fillas de Cassandra,39,2024-09-25,galego,0.608,0.641,0.325,92.263,-7.643,214752,9,0
+3ri9fLG89OdSpjxheYxU7S,Me Muero,La Quinta Estacion,72,2006-08-15,"latin arena pop, latin pop, spanish pop rock",0.424,0.74,0.585,169.914,-3.243,189560,5,1
+27jECMDccg0OmnJTHGjU3i,No Dejes De Soñar,Manuel Carrasco,45,2013-01-01,"carnaval cadiz, pop flamenco, spanish pop",0.52,0.511,0.175,96.084,-6.977,319573,8,1
+25bdVEqLdunmDjysmI7n1P,Solo Tú,Paula Rojo,41,2013-01-01,,0.416,0.575,0.686,149.684,-5.38,188544,2,1
+7sRXhReWmJF5pqyg3uUTES,Solamente tú,Pablo Alborán,68,2011-02-01,"latin arena pop, latin pop, spanish pop",0.519,0.419,0.266,140.033,-6.276,247187,9,1
+1Ev18ptTlc3CBQMmKsIfjY,Nada Fue Un Error,Coti,63,2003-02-21,"spanish pop, spanish pop rock",0.606,0.87,0.83,138.527,-5.261,207880,9,1
+02FKjeU8CrA2ckppBa5RJg,Comiendote a Besos,Rozalén,55,2013-03-12,"cantautor, spanish pop",0.585,0.539,0.5,120.095,-5.105,241987,0,1
+569wwTXGm6Ujk1HeJjH6fj,Girasoles,Rozalén,47,2017-09-15,"cantautor, spanish pop",0.746,0.732,0.945,90.03,-5.543,220000,1,1
+55BClNby0SuB7MHxp1Tdn8,Ya Nada Volvera a Ser Como Antes,El Canto Del Loco,54,2003,"latin arena pop, spanish pop, spanish pop rock",0.644,0.784,0.918,132.028,-4.577,175867,8,1
+6uzGmmQ4CuG9HvZktEy0LF,Qué Bonito Es Querer,Manuel Carrasco,61,2018-12-07,"carnaval cadiz, pop flamenco, spanish pop",0.609,0.718,0.426,93.94,-7.177,270188,11,1
+0a9aY5CZKqHE7x0K8Q9rvF,No Dudaría,Rosario,48,2008-01-01,"cantautor, spanish pop",0.48,0.636,0.446,129.979,-5.082,224000,5,1
+5ZZuokF4h1FlfTlSQhLCmG,Quién,Pablo Alborán,60,2012,"latin arena pop, latin pop, spanish pop",0.621,0.457,0.277,141.679,-5.928,249253,7,0
+5l2STIhKgH7UqyWwQr5i5E,JUAN SALVADOR GAVIOTA,Ralphie Choo,41,2023-09-15,"indie r&b, urbano espanol",0.305,0.561,0.291,81.44,-11.271,140378,10,0
+7IpzD6N7WbLtJLdUTXJ4tK,NHF,Ralphie Choo,46,2023-09-15,"indie r&b, urbano espanol",0.384,0.564,0.204,173.969,-9.264,174069,9,0
+6P9fFbnwWYASamPwhfUunp,BULERÍAS DE UN CABALLO MALO,Ralphie Choo,49,2023-09-15,"indie r&b, urbano espanol",0.776,0.652,0.532,108.035,-9.576,171111,2,0
+5ffLdAti2Kb4XFZ2mPNrxp,TOTAL90NOSTALGIA,Ralphie Choo,43,2023-09-15,"indie r&b, urbano espanol",0.447,0.3,0.0739,76.063,-12.806,208421,1,0
+5lsZlmRmcxDPYIbIS1ygKp,BÓ,Ralphie Choo,37,2023-09-15,"indie r&b, urbano espanol",0.42,0.189,0.132,169.471,-14.616,72736,7,0
+55iO3rILBsWI8bMntmW1Mh,WHIPCREAM,Ralphie Choo,44,2023-09-15,"indie r&b, urbano espanol",0.854,0.719,0.776,129.964,-5.905,156923,9,0
+4mwQi413D8omgjFXRnaA4u,WCID?,Ralphie Choo,42,2023-09-15,"indie r&b, urbano espanol",0.527,0.304,0.213,89.964,-11.388,204000,5,0
+3Y8Y9GWlUBTTEY6ydINRtx,GATA,Ralphie Choo,55,2023-09-15,"indie r&b, urbano espanol",0.749,0.528,0.552,95.108,-7.83,131053,7,1
+5aCmvEtoqJvkuoHMaExANL,MÁQUINA CULONA,Ralphie Choo,47,2023-09-15,"indie r&b, urbano espanol",0.802,0.543,0.859,100.241,-5.994,192000,5,0
+3nktnXU3MIsO50g7pd1f2W,VOYCONTODO,Ralphie Choo,54,2023-09-15,"indie r&b, urbano espanol",0.709,0.344,0.395,119.916,-9.392,137114,2,0
+3TDIIZjduqsItwVIp6t4Aa,SUPERNOVA,Ralphie Choo,43,2023-09-15,"indie r&b, urbano espanol",0.26,0.294,0.286,81.398,-10.654,164151,9,0
+3DngnciTJUofVYhj9cmUj8,TANGOS DE UNA MOTO TRUCADA,Ralphie Choo,41,2023-09-15,"indie r&b, urbano espanol",0.812,0.495,0.79,148.069,-12.301,177568,2,0
+1xpuijnLoFixIIx2kLmg3M,BESO BRUMA,Ralphie Choo,44,2023-09-15,"indie r&b, urbano espanol",0.783,0.694,0.536,115.516,-8.633,144935,6,0
+6SxL9GQXEfYzWqdjB5ztPl,METAVERSE,Ralphie Choo,37,2023-09-15,"indie r&b, urbano espanol",0.299,0.34,0.0753,167.621,-11.741,137143,7,0
+3cNykCGMtO3gPSZkmA0y2P,GATA,Ralphie Choo,34,2023-06-23,"indie r&b, urbano espanol",0.749,0.528,0.552,95.108,-7.83,131053,7,1
+4dnBOxtVVEQX0T74GCJqCs,TANGOS DE UNA MOTO TRUCADA - A COLORS SHOW,Ralphie Choo,33,2023-04-14,"indie r&b, urbano espanol",0.826,0.496,0.777,148.095,-10.788,177568,2,0
+5gYoOh7cEnyuOAlSMK5ML8,BULERÍAS DE UN CABALLO MALO,Ralphie Choo,22,2022-09-30,"indie r&b, urbano espanol",0.776,0.652,0.532,108.035,-9.576,171111,2,0
+1BD5NV73nKIPvZTPwkME5X,SANTO ÂNGEL,Ralphie Choo,33,2022-08-05,"indie r&b, urbano espanol",0.504,0.296,0.0602,109.895,-12.868,152727,3,1
+0NPpmjVQEEJZxOckYzBjWi,VALENTINO (feat. mori & Clutchill),Ralphie Choo,42,2022-06-24,"indie r&b, urbano espanol",0.432,0.721,0.556,148.896,-5.398,186889,0,1
+1CRJWB8hoW6MSE6IybSXnq,bobo.0110001v3,mori,34,2022-04-24,,0.452,0.161,0.357,134.233,-17.917,171940,7,1
+0NzUqCoIruBP1d1z8s81dU,Dunas,Kimberley Tell,20,2022-03-25,indie triste,0.635,0.673,0.59,74.881,-4.859,108250,1,0
+2gEthirHCqqUybpq7HkNY7,ROOKIES,Ralphie Choo,49,2022-03-04,"indie r&b, urbano espanol",0.473,0.502,0.197,143.905,-8.503,179234,9,0
+0hlPZiPFhtiiggCqFw9gzT,blind faith,Ralphie Choo,32,2021-05-13,"indie r&b, urbano espanol",0.376,0.489,0.511,163.793,-10.194,214573,8,1
+4ToI5pk0Sskqy9UnwFWn1v,undo(ctrl+z),Ralphie Choo,28,2021-03-18,"indie r&b, urbano espanol",0.525,0.733,0.389,162.081,-7.434,157037,0,1
+2nCKy4vv2pFBOoY25jcDQA,lamento de una supernova,Ralphie Choo,54,2020-12-18,"indie r&b, urbano espanol",0.545,0.458,0.284,91.99,-10.032,147533,6,0
+401I0yS7AMUrc8Iia0SQzJ,Hugo Gloss,D3llano,29,2020-12-04,rap espanol,0.787,0.493,0.55,120.045,-9.378,166052,0,1
+4waCBDVYLn1NJJePFGPDaE,I Ching´s love,Ralphie Choo,27,2020-08-21,"indie r&b, urbano espanol",0.395,0.604,0.435,133.718,-7.399,155821,11,0
+5Vv9KbtAN8XNESS8XH1sPt,Dolores,rusowsky,57,2020-07-10,,0.757,0.469,0.731,122.059,-11.229,218361,11,0
+2wHdaYSPUKyPCugjCiK6Up,Do meu coração,Ralphie Choo,33,2020-06-12,"indie r&b, urbano espanol",0.76,0.728,0.571,199.888,-7.313,146400,0,0
+7tcKmnfBoujpkDyFgLfy9Y,Don´t be scared,Ralphie Choo,27,2020-06-12,"indie r&b, urbano espanol",0.568,0.272,0.056,147.828,-10.923,181618,2,1
+2tuEhpJhXd1fIgOW8yB9YK,Lonely Boy,Ralphie Choo,29,2020-05-08,"indie r&b, urbano espanol",0.657,0.316,0.69,60.042,-9.325,138000,5,1
+7huvZiaIjvIeyj9eOiHMho,Cari,Ralphie Choo,28,2019-12-20,"indie r&b, urbano espanol",0.467,0.499,0.33,80.103,-7.808,153000,5,1
+4SBOc5H03M2AGbvb2J0zHh,Town Boyz,Ralphie Choo,27,2019-11-22,"indie r&b, urbano espanol",0.57,0.348,0.225,90.988,-8.602,123500,2,1
+2ibFPYHzUnqVpS2rv655oF,Omega (feat. Ralphie Choo),ROSALÍA,67,2024-09-24,"pop, r&b en espanol",0.523,0.409,0.477,91.441,-5.636,169500,10,1
+6x5gl9msgjsqub1hy7Iq3k,El camino,DELLAFUENTE,52,2023-04-27,"flamenco urbano, urbano espanol",0.803,0.699,0.836,87.946,-6.169,136955,0,1
+3LpyDAykemTWbEsMjAmUiP,fubu,Dinamarca,40,2023-04-12,"deconstructed club, grimewave, latin tek, vogue",0.662,0.535,0.638,152.327,-10.75,153000,6,0
+04cocYWcOYAS6OXChcIfdQ,Copito de Nieve,Ralphie Choo,17,2020-12-04,"indie r&b, urbano espanol",0.525,0.711,0.757,122.599,-10.788,105875,4,0
+4DAPDqKf4rFurBbdqYLE0D,blind faith,Ralphie Choo,3,2021-05-13,"indie r&b, urbano espanol",0.376,0.489,0.511,163.793,-10.194,214573,8,1
+5dl19uNkWLeDueQDTMIPjy,Carameloraro,DELLAFUENTE,47,2023-04-27,"flamenco urbano, urbano espanol",0.332,0.31,0.122,129.818,-9.63,158210,8,1
+72lA9YNb3KanLddFqYIVga,interludio,Chill Chicos,29,2020-12-23,tontipop,0.288,0.684,0.49,175.949,-10.182,79250,0,1
+4PESd1GcBNaaZuTvtc6TlF,Nayades,Julieta,19,2021-03-26,musica catalana,0.659,0.351,0.173,94.894,-9.939,212229,9,0
+0AAh6D2GLblRfoc08CEzMN,TUM VALORES,Julieta,7,2021-12-01,musica catalana,0.778,0.686,0.287,99.994,-6.359,189600,1,0
+40gCegiY9o3FqxntPo7x5B,Algun dia - Radio Edit,Julieta,7,2022-02-23,musica catalana,0.756,0.681,0.322,117.977,-7.353,201000,1,0
+7B6nF2WRygW4jUrKfRDXM9,TUM VALORES - Celes Remix,Julieta,7,2022-02-23,musica catalana,0.688,0.417,0.506,99.949,-10.92,150000,1,0
+2lBIXoLHMZDq8l634AYV5F,Si ha de ser serà - Moed Remix,Julieta,7,2022-02-23,musica catalana,0.497,0.348,0.157,72.502,-9.487,193333,8,0
+6xwzk2wGxe4tWh8ansEtJk,Algun dia - Extended Club Version,Julieta,9,2022-02-23,musica catalana,0.784,0.569,0.328,117.983,-10.823,242034,1,0
+7tpLwRm8OPCtsfw61eOXWm,A les fosques,Julieta,9,2022-06-01,musica catalana,0.687,0.676,0.274,119.986,-7.277,258000,9,0
+0vdnDTxsWTwXzpuQG2iCzj,BALACLAVA,Missey,14,2022-09-30,r&b italiano,0.407,0.747,0.188,194.254,-6.382,183534,1,0
+48IskyOyEkMcSt2tEUCQRO,ENS BESEM,Julieta,29,2022-12-16,musica catalana,0.494,0.43,0.077,153.558,-11.353,190130,7,0
+05MpXa6FxatI0qjPnFANkv,ENS BESEM - Speed Up Version,Julieta,19,2023-02-17,musica catalana,0.484,0.472,0.22,175.836,-10.545,166364,9,0
+2d1GlsvP1CPSztWlhX8N1Q,CLUB,Julieta,31,2023-02-24,musica catalana,0.858,0.804,0.399,130.079,-7.27,189000,9,0
+6m88GQUOAiFEggpgKSHAk2,Enamorada de tu,Julieta,20,2023-09-08,musica catalana,0.847,0.764,0.547,111.979,-7.749,189107,7,1
+7m8aetuFspDvP5GXhVJBQx,Thelma & Louise,Belén Aguilera,42,2024-03-07,spanish pop,0.724,0.765,0.5,134.053,-7.796,161194,5,1
+5O1zs9if5WlN0imKHxtWjB,Full Romance,Julieta,39,2024-05-31,musica catalana,0.688,0.702,0.265,126.907,-9.655,157323,4,0
+2OL5S46cBDRfkz2O7SYFUF,Vaya Liada,Mushkaa,51,2024-08-15,,0.711,0.537,0.584,127.011,-9.057,180532,1,0
+4f8oscuJWfdmpV0GoJ5p6R,15/09/2023,Julieta,27,2023-09-15,musica catalana,0.527,0.839,0.119,127.763,-13.493,30369,10,0
+6HHliM0fqvfkCPiN2LUmrs,En mi coche,Julieta,32,2023-09-15,musica catalana,0.737,0.602,0.222,134.952,-7.41,124889,4,0
+4KIjLt2dy3sefaY11QiZNX,Trista a Miami,Maria Jaume,30,2024-03-15,"indie catala, rock catala",0.762,0.72,0.495,125.976,-4.311,186667,0,1
+5Ais7t7CJK0LFMmLejdU1T,GAU ZORO BAT BARCELONAN,Dupla,26,2023-10-05,rap euskera,0.731,0.579,0.205,125.042,-8.442,180480,5,0
+73SwwGrb5STdkbZ6BLllbr,El Autor De Todos Tus Delitos,Rojuu,28,2024-03-22,"rap regio, urbano espanol",0.221,0.439,0.113,83.355,-12.312,252491,8,1
+23IqxRsToCo4Oj9w1pK3PT,EL TEU AMOR,xicu,16,2023-05-03,"indie catala, musica catalana",0.647,0.89,0.0393,130.947,-4.733,205629,4,0
+0uB9gsssuj6l3XLi25ADYl,2+1,Judeline,55,2023-10-05,urbano espanol,0.723,0.583,0.507,97.706,-5.903,157727,0,0
+4EF1UDALNWdyJDWindWBqg,Sustancia,Judeline,52,2021-04-23,urbano espanol,0.651,0.374,0.0797,120.136,-15.033,173684,0,1
+0tHzUXLKk7p0wzMZMMEl8y,CANIJO,Judeline,56,2023-06-15,urbano espanol,0.577,0.467,0.41,84.41,-8.496,141587,2,0
+5WW6WJUxZsfHF7Na5wwE02,La Tortura - Spotify Singles,Judeline,57,2023-08-25,urbano espanol,0.536,0.472,0.555,95.602,-9.345,151215,9,0
